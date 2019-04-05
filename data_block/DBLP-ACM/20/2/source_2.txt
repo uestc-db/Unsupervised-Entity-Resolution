@@ -1,0 +1,123 @@
+phoenix making applications robust roger barga david b lomet international conference on management of data 1999
+datablitz storage manager main-memory database performance for critical applications j baulier p bohannon s gogate c gupta s haldar international conference on management of data 1999
+of crawlers portals mice and men is there more to mining the web minos n garofalakis sridhar ramaswamy rajeev rastogi kyuseok shim international conference on management of data 1999
+xtract a system for extracting document type descriptors from xml documents minos garofalakis aristides gionis rajeev rastogi s seshadri kyuseok shim international conference on management of data 2000
+distance browsing in spatial databases g&#237;sli r hjaltason hanan samet acm transactions on database systems tods 1999
+information gathering in the world-wide web the w3ql query language and the w3qs system david konopnicki oded shmueli acm transactions on database systems tods 1998
+microsoft index turning wizard for sql server 7.0 surajit chaudhuri vivek narasayya international conference on management of data 1998
+enterprise java platform data access seth white rick cattell shel finkelstein international conference on management of data 1998
+random sampling for histogram construction how much is enough surajit chaudhuri rajeev motwani vivek narasayya international conference on management of data 1998
+on random sampling over joins surajit chaudhuri rajeev motwani vivek narasayya international conference on management of data 1999
+querying network directories h v jagadish laks v s lakshmanan tova milo divesh srivastava dimitra vista international conference on management of data 1999
+snakes and sandwiches optimal clustering strategies for a data warehouse h v jagadish laks v s lakshmanan divesh srivastava international conference on management of data 1999
+the microsoft database research group david lomet roger barga surajit chaudhuri paul larson vivek narasayya acm sigmod record 1998
+database techniques for the world-wide web a survey daniela florescu alon levy alberto mendelzon acm sigmod record 1998
+the garlic project m tork roth m arya l haas m carey w cody r fagin p schwarz j thomas e wimmers international conference on management of data 1996
+state of the art in workflow management research and products c mohan international conference on management of data 1996
+orthogonal optimization of subqueries and aggregation c&#233;sar galindo-legaria milind joshi international conference on management of data 2001
+materialized view and index selection tool for microsoft sql server 2000 sanjay agrawal surajit chaudhuri vivek narasayya international conference on management of data 2001
+a robust optimization-based approach for approximate answering of aggregate queries surajit chaudhuri gautam das vivek narasayya international conference on management of data 2001
+efficient and tumble similar set retrieval aristides gionis dimitrios gunopulos nick koudas international conference on management of data 2001
+probabilistic temporal databases i algebra alex dekhtyar robert ross v s subrahmanian acm transactions on database systems tods 2001
+probabilistic object bases thomas eiter james j lu thomas lukasiewicz v s subrahmanian acm transactions on database systems tods 2001
+a goal-driven auto-configuration tool for the distributed workflow management system mentorlite michael gillmann jeanine weissenfels german shegalov wolfgang wonner gerhard weikum international conference on management of data 2000
+on effective multi-dimensional indexing for strings h v jagadish nick koudas divesh srivastava international conference on management of data 2000
+counting enumerating and sampling of execution plans in a cost-based query optimizer florian waas c&#233;sar galindo-legaria international conference on management of data 2000
+efficient algorithms for mining outliers from large data sets sridhar ramaswamy rajeev rastogi kyuseok shim international conference on management of data 2000
+database principles leonid libkin acm sigmod record 2002
+industry perspectives len seligman acm sigmod record 2002
+database principles leonid libkin acm sigmod record 2002
+editorial directons won kim acm transactions on database systems tods 1995
+editorial charter and scope won kim acm transactions on database systems tods 1995
+career forum alexandros labrinidis acm sigmod record 2001
+career-enhancing services at sigmod online alexandros labrinidis alberto o mendelzon acm sigmod record 2001
+career forum alexandros labrinidis acm sigmod record 2002
+xquery formal semantics state and challenges peter fankhauser acm sigmod record 2001
+why and how to benchmark xml databases albrecht schmidt florian waas martin kersten daniela florescu michael j carey ioana manolescu ralph busse acm sigmod record 2001
+the demarcation protocol a technique for maintaining constraints in distributed database systems daniel barbar&#225;-mill&#225 hector garcia-molina the vldb journal mdash the international journal on very large data bases 1994
+database principles leonid libkin acm sigmod record 2001
+career forum alexandros labrinidis acm sigmod record 2001
+efficient evaluation of queries in a mediator for websources vladimir zadorozhny louiqa raschid maria esther vidal tolga urhan laura bright international conference on management of data 2002
+career forum alexandros labrinidis acm sigmod record 2002
+industry perspective len seligman acm sigmod record 2002
+database principles leonid libkin acm sigmod record 2002
+dynamic multidimensional histograms nitin thaper sudipto guha piotr indyk nick koudas international conference on management of data 2002
+approximate xml joins sudipto guha h v jagadish nick koudas divesh srivastava ting yu international conference on management of data 2002
+workflow management with service quality guarantees michael gillmann gerhard weikum wolfgang wonner international conference on management of data 2002
+garlic a new flavor of federated query processing for db2 vanja josifovski peter schwarz laura haas eileen lin international conference on management of data 2002
+compressing sql workloads surajit chaudhuri ashish kumar gupta vivek narasayya international conference on management of data 2002
+phoenix project fault-tolerant applications roger barga david lomet acm sigmod record 2002
+cost models do matter providing cost information for diverse data sources in a federated system mary tork roth fatma ozcan laura m haas very large data bases 1999
+similarity search in high dimensions via hashing aristides gionis piotr indyk rajeev motwani very large data bases 1999
+what can hierarchies do for data warehouses h v jagadish laks v s lakshmanan divesh srivastava very large data bases 1999
+loading a cache with query results laura m haas donald kossmann ioana ursu very large data bases 1999
+automated selection of materialized views and indexes in sql databases sanjay agrawal surajit chaudhuri vivek r narasayya very large data bases 2000
+agora living with xml and relational ioana manolescu daniela florescu donald kossmann florian xhumari dan olteanu very large data bases 2000
+xpath processing in a nutshell georg gottlob christoph koch reinhard pichler acm sigmod record 2003
+parameterized complexity for the database theorist martin grohe acm sigmod record 2002
+optimizing queries across diverse data sources laura m haas donald kossmann edward l wimmers jun yang very large data bases 1997
+logical and physical versioning in main memory databases rajeev rastogi s seshadri philip bohannon dennis w leinbaugh abraham silberschatz s sudarshan very large data bases 1997
+datablitz a high performance main-memory storage manager jerry baulier philip bohannon s gogate s joshi c gupta a khivesera henry f korth peter mcilroy j miller p p s narayan m nemeth rajeev rastogi abraham silberschatz s sudarshan very large data bases 1998
+a database system for real-time event aggregation in telecommunication jerry baulier stephen blott henry f korth abraham silberschatz very large data bases 1998
+optimal histograms with quality guarantees h v jagadish nick koudas s muthukrishnan viswanath poosala kenneth c sevcik torsten suel very large data bases 1998
+an efficient cost-driven index selection tool for microsoft sql server surajit chaudhuri vivek r narasayya very large data bases 1997
+answering queries with aggregation using views divesh srivastava shaul dar h v jagadish alon y levy very large data bases 1996
+experiences in federated databases from iro-db to miro-web peter fankhauser georges gardarin m lopez j mu&#241;oz anthony tomasic very large data bases 1998
+the complexity of transformation-based join enumeration arjan pellenkoft c&#233;sar a galindo-legaria martin l kersten very large data bases 1997
+semantic data caching and replacement shaul dar michael j franklin bj&#246;rn 222;&#243;r j&#243;nsson divesh srivastava michael tan very large data bases 1996
+calibrating the query optimizer cost model of iro-db an object-oriented federated database system georges gardarin fei sha zhao-hui tang very large data bases 1996
+cost-based selection of path expression processing algorithms in object-oriented databases georges gardarin jean-robert gruser zhao-hui tang very large data bases 1996
+filter trees for managing spatial data over a range of size granularities kenneth c sevcik nick koudas very large data bases 1996
+speeding up construction of pmr quadtree-based spatial indexes gisli r hjaltason hanan samet the vldb journal mdash the international journal on very large data bases 2002
+efficient retrieval of similar shapes davood rafiei alberto o mendelzon the vldb journal mdash the international journal on very large data bases 2002
+guest editorial paolo atzeni alberto o mendelzon the vldb journal mdash the international journal on very large data bases 2000
+learning response time for websources using query feedback and application in query optimization jean-robert gruser louiqa raschid vladimir zadorozhny tao zhan the vldb journal mdash the international journal on very large data bases 2000
+foreword by the vldb 98 pc chairmen o shmueli j widom the vldb journal mdash the international journal on very large data bases 2000
+observations on the odmg-93 proposal for an object-oriented database language won kim acm sigmod record 1994
+amalgamating knowledge bases v s subrahmanian acm transactions on database systems tods 1994
+a fast index for semistructured data brian cooper neal sample michael j franklin gisli r hjaltason moshe shadmon very large data bases 2001
+answering xml queries on heterogeneous data sources ioana manolescu daniela florescu donald kossmann very large data bases 2001
+architectures for internal web services deployment oded shmueli very large data bases 2001
+temporal queries in olap alberto o mendelzon alejandro a vaisman very large data bases 2000
+relating distributed objects bruce e martin r g g cattell very large data bases 1994
+dali a high performance main memory storage manager h v jagadish daniel f lieuwen rajeev rastogi abraham silberschatz s sudarshan very large data bases 1994
+scientific databases state of the art and future directions maria zemankova yannis e ioannidis very large data bases 1994
+w3qs a query system for the world-wide web david konopnicki oded shmueli very large data bases 1995
+a cost model for clustered object-oriented databases georges gardarin jean-robert gruser zhao-hui tang very large data bases 1995
+incremental maintenance of views with duplicates timothy griffin leonid libkin international conference on management of data 1995
+the handwritten trie indexing electronic ink walid aref daniel barbar&#225 padmavathi vallabhaneni international conference on management of data 1995
+unisql/x unified relational and object-oriented database system won kim international conference on management of data 1994
+odmg-93 a standard for object-oriented dbmss r g g cattell international conference on management of data 1994
+outerjoins as disjunctions c&#233;sar a galindo-legaria international conference on management of data 1994
+databases for networks h v jagadish international conference on management of data 1994
+the incinerate data model h v jagadish acm transactions on database systems tods 1995
+response to the odmg-93 commentary written by dr won kim of unisql inc corporate object database management group acm sigmod record 1994
+implementation of magic-sets in a relational database system inderpal singh mumick hamid pirahesh international conference on management of data 1994
+interaction of query evaluation and buffer management for information retrieval bj&#246;rn t j&#243;nsson michael j franklin divesh srivastava international conference on management of data 1998
+cure an efficient clustering algorithm for large databases sudipto guha rajeev rastogi kyuseok shim international conference on management of data 1998
+incremental distance join algorithms for spatial databases g&#237;sli r hjaltason hanan samet international conference on management of data 1998
+supporting multiple view maintenance policies latha s colby akira kawaguchi daniel f lieuwen inderpal singh mumick kenneth a ross international conference on management of data 1997
+size separation spatial join nick koudas kenneth c sevcik international conference on management of data 1997
+disjunctive datalog thomas eiter georg gottlob heikki mannila acm transactions on database systems tods 1997
+probview a flexible probabilistic database system laks v s lakshmanan nicola leone robert ross v s subrahmanian acm transactions on database systems tods 1997
+outerjoin simplification and reordering for query optimization c&#233;sar galindo-legaria arnon rosenthal acm transactions on database systems tods 1997
+applying database visualization to the world wide web masum z hasan alberto o mendelzon dimitra vista acm sigmod record 1996
+mediator languages-a proposal for a standard report of an i3/pob working group held at the university of maryland april 12 and 13 1996 peter buneman louiqa raschid jeffrey ullman acm sigmod record 1997
+a consumer viewpoint on mediator languages-a proposal for a standard arnon rosenthal erich hughes scott renner len seligman acm sigmod record 1997
+similarity-based queries for time series data davood rafiei alberto mendelzon international conference on management of data 1997
+maintenance of data cubes and summary tables in a warehouse inderpal singh mumick dallan quass barinderpal singh mumick international conference on management of data 1997
+magic conditions inderpal singh mumick sheldon j finkelstein hamid pirahesh raghu ramakrishnan acm transactions on database systems tods 1996
+performance tradeoffs for client-server query processing michael j franklin bj&#246;rn th&#243;r j&#243;nsson donald kossmann international conference on management of data 1996
+algorithms for deferred view maintenance latha s colby timothy griffin leonid libkin inderpal singh mumick howard trickey international conference on management of data 1996
+panel querying networked databases nick koudas divesh srivastava international conference on management of data 2003
+estimating compilation time of a query optimizer ihab f ilyas jun rao guy lohman dengfeng gao eileen lin international conference on management of data 2003
+dynamic sample selection for approximate query processing brian babcock surajit chaudhuri gautam das international conference on management of data 2003
+database principles leonid libkin acm sigmod record 2003
+career forum alexandros labrinidis acm sigmod record 2003
+xml-enabled workflow management for e-services across heterogeneous platforms german shegalov michael gillmann gerhard weikum the vldb journal mdash the international journal on very large data bases 2001
+xpath processing in a nutshell georg gottlob christoph koch reinhard pichler acm sigmod record 2003
+database principles acm sigmod record 2003
+index-driven similarity search in metric spaces gisli r hjaltason hanan samet acm transactions on database systems tods 2003
+data integration in the large the challenge of reuse arnon rosenthal leonard j seligman very large data bases 1994
+fast randomized join-order selection why use transformations c&#233;sar a galindo-legaria arjan pellenkoft martin l kersten very large data bases 1994
+challenges for global information systems alon y levy abraham silberschatz divesh srivastava maria zemankova very large data bases 1994

@@ -1,0 +1,107 @@
+dbis-toolkit adaptable middleware for large scale data delivery mehmet altinel demet aksoy thomas baby michael franklin william shapiro stan zdonik international conference on management of data 1999
+database patchwork on the internet reinhard braumandl alfons kemper donald kossmann international conference on management of data 1999
+on-line reorganization in object databases mohana k lakhamraju rajeev rastogi s seshadri s sudarshan international conference on management of data 2000
+influence sets based on reverse nearest neighbor queries flip korn s muthukrishnan international conference on management of data 2000
+data in your face push technology in perspective michael franklin stan zdonik international conference on management of data 1998
+integration of spatial join algorithms for processing multiple inputs nikos mamoulis dimitris papadias international conference on management of data 1999
+applying the golden rule of sampling for query estimation yi-leh wu divyakant agrawal amr el abbadi international conference on management of data 2001
+adaptable query optimization and evaluation in temporal middleware giedrius slivinskas christian s jensen richard thomas snodgrass international conference on management of data 2001
+modeling high-dimensional index structures using sampling christian a lang ambuj k singh international conference on management of data 2001
+database research at the indian institute of technology bombay d b phatak n l sarda s seshadri s sudarshan acm sigmod record 1996
+multiway spatial joins nikos mamoulis dimitris papadias acm transactions on database systems tods 2001
+an approximate search engine for structural databases jason t l wang xiong wang dennis shasha bruce a shapiro kaizhong zhang qicheng ma zasha weinberg international conference on management of data 2000
+indexing the positions of continuously moving objects simonas 352;altenis christian s jensen scott t leutenegger mario a lopez international conference on management of data 2000
+privacy-preserving data mining rakesh agrawal ramakrishnan srikant international conference on management of data 2000
+the implementation and performance of compressed databases till westmann donald kossmann sven helmer guido moerkotte acm sigmod record 2000
+report on xewa-00 the xml enabled wide-area searches for bioinformatics workshop terence critchlow acm sigmod record 2001
+cost models for overlapping and multiversion structures yufei tao dimitris papadias jun zhang acm transactions on database systems tods 2002
+wrapping web data into xml wei han david buttler calton pu acm sigmod record 2001
+special issue on prototypes of deductive database systems k ramamohanarao the vldb journal mdash the international journal on very large data bases 1994
+special issue on spatial database systems h j schek the vldb journal mdash the international journal on very large data bases 1994
+emergent semantics and the multimedia semantic web w i grosky d v sreenath f fotouhi acm sigmod record 2002
+querying multiple bioinformatics information sources can semantic web research help david buttler matthew coleman terence critchlow renato fileto wei han calton pu daniel rocco li xiong acm sigmod record 2002
+ordered shared locks for real-time databases divyakant agrawal amr el abbadi richard jeffers lijing lin the vldb journal mdash the international journal on very large data bases 1995
+adaptable pointer swizzling strategies in object bases design realization and quantitative analysis alfons kemper donald kossmann the vldb journal mdash the international journal on very large data bases 1995
+orthogonally persistent object systems malcolm atkinson ronald morrison the vldb journal mdash the international journal on very large data bases 1995
+efficient integration and aggregation of historical information mirek riedewald divyakant agrawal amr el abbadi international conference on management of data 2002
+clustering by pattern similarity in large data sets haixun wang wei wang jiong yang philip s yu international conference on management of data 2002
+mining long sequential patterns in a noisy environment jiong yang wei wang philip s yu jiawei han international conference on management of data 2002
+time-parameterized queries in spatio-temporal databases yufei tao dimitris papadias international conference on management of data 2002
+visual coko a debugger for query optimizer development daniel j abadi mitch cherniack international conference on management of data 2002
+bringing order to query optimization giedrius slivinskas christian s jensen richard thomas snodgrass acm sigmod record 2002
+r-tree based indexing of now-relative bitemporal data rasa bliujute christian s jensen simonas saltenis giedrius slivinskas very large data bases 1998
+evaluating functional joins along nested reference sets in object-relational and object-oriented databases reinhard braumandl jens clau&#223;en alfons kemper very large data bases 1998
+design and development of a stream service in a heterogenous client environment nikos pappas stavros christodoulakis very large data bases 2000
+parallel algorithms for high-dimensional similarity joins for data mining applications john c shafer rakesh agrawal very large data bases 1997
+principles of optimally placing data in tertiary storage libraries stavros christodoulakis peter triantafillou fenia zioga very large data bases 1997
+inferring function semantics to optimize queries mitch cherniack stanley b zdonik very large data bases 1998
+diag-join an opportunistic join algorithm for 1:n relationships sven helmer till westmann guido moerkotte very large data bases 1998
+on optimal node splitting for r-trees yv&#225;n j garc&#237;a mario a lopez scott t leutenegger very large data bases 1998
+safely and efficiently updating references during on-line reorganization chendong zou betty salzberg very large data bases 1998
+recovering information from summary data christos faloutsos h v jagadish nikolaos sidiropoulos very large data bases 1997
+optimizing queries with universal quantification in object-oriented and object-relational databases jens clau&#223;en alfons kemper guido moerkotte klaus peithner very large data bases 1997
+sting a statistical information grid approach to spatial data mining wei wang jiong yang richard r muntz very large data bases 1997
+on-demand data elevation in hierarchical multimedia storage servers peter triantafillou thomas papadakis very large data bases 1997
+evaluation of main memory join algorithms for joins with set comparison join predicates sven helmer guido moerkotte very large data bases 1997
+finding data in the neighborhood andr&#233 eickler alfons kemper donald kossmann very large data bases 1997
+disseminating updates on broadcast disks swarup acharya michael j franklin stanley b zdonik very large data bases 1996
+mining generalized association rules ramakrishnan srikant rakesh agrawal very large data bases 1995
+the hbp-tree a modified hb-tree supporting concurrency recovery and node consolidation georgios evangelidis david b lomet betty salzberg very large data bases 1995
+fast nearest neighbor search in medical image databases flip korn nikolaos sidiropoulos christos faloutsos eliot siegel zenon protopapas very large data bases 1996
+sprint a scalable parallel classifier for data mining john c shafer rakesh agrawal manish mehta very large data bases 1996
+heuristic and randomized optimization for the join ordering problem michael steinbrunn guido moerkotte alfons kemper the vldb journal mdash the international journal on very large data bases 1997
+concurrency and recovery for index trees david lomet betty salzberg the vldb journal mdash the international journal on very large data bases 1997
+data placement in shared-nothing parallel database systems manish mehta david j dewitt the vldb journal mdash the international journal on very large data bases 1997
+introduction m tamer 214;zsu stavros christodoulakis the vldb journal mdash the international journal on very large data bases 1998
+the hb pi$-tree a multi-attribute index supporting concurrency recovery and node consolidation georgios evangelidis david lomet betty salzberg the vldb journal mdash the international journal on very large data bases 1997
+indexing of now-relative spatio-bitemporal data simonas 352;altenis christian s jensen the vldb journal mdash the international journal on very large data bases 2002
+functional-join processing r braumandl j claussen a kemper d kossmann the vldb journal mdash the international journal on very large data bases 2000
+anatomy of a native xml base management system t fiebig s helmer c.-c kanne g moerkotte j neumann r schiele t westmann the vldb journal mdash the international journal on very large data bases 2002
+guest editorial malcolm p atkinson the vldb journal mdash the international journal on very large data bases 2000
+data staging for on-demand broadcast demet aksoy michael j franklin stanley b zdonik very large data bases 2001
+data management for pervasive computing mitch cherniack michael j franklin stanley b zdonik very large data bases 2001
+discovery of influence sets in frequently updated databases ioana stanoi mirek riedewald divyakant agrawal amr el abbadi very large data bases 2001
+mv3r-tree a spatio-temporal access method for timestamp and interval queries yufei tao dimitris papadias very large data bases 2001
+cheetah a lightweight transaction server for plug-and-play internet data management guy pardon gustavo alonso very large data bases 2000
+social educational and governmental change enabled through information technology krithi ramamritham yeha el atfi carlo batini michael eitan valerie gregg d b phatak very large data bases 2000
+the bt-tree a branched and temporal access method linan jiang betty salzberg david b lomet manuel barrena garc&#237;a very large data bases 2000
+efficient index structures for string databases tamer kahveci ambuj k singh very large data bases 2001
+towards automated performance tuning for complex workloads kurt p brown manish mehta michael j carey miron livny very large data bases 1994
+the hcc-tree an efficient index structure for object oriented databases b sreenath s seshadri very large data bases 1994
+managing intra-operator parallelism in parallel database systems manish mehta david j dewitt very large data bases 1995
+a performance evaluation of oid mapping techniques andr&#233 eickler carsten andreas gerlhof donald kossmann very large data bases 1995
+bypassing joins in disjunctive queries michael steinbrunn klaus peithner guido moerkotte alfons kemper very large data bases 1995
+object-oriented rapid application development in a pc database environment corporate fox development team microsoft international conference on management of data 1995
+broadcast disks data management for asymmetric communication environments swarup acharya rafael alonso michael franklin stanley zdonik international conference on management of data 1995
+indexing multimedia databases christos faloutsos international conference on management of data 1995
+optimizing disjunctive queries with expensive predicates a kemper g moerkotte k peithner m steinbrunn international conference on management of data 1994
+combinatorial pattern discovery for scientific data some preliminary results jason tsong-li wang gung-wei chirn thomas g marr bruce shapiro dennis shasha kaizhong zhang international conference on management of data 1994
+using metadata for the intelligent browsing of structured media objects william i grosky farshad fotouhi ishwar k sethi bogdan capatina acm sigmod record 1994
+repositories and object oriented databases philip a bernstein acm sigmod record 1998
+efficiently mining long patterns from databases roberto j bayardo jr international conference on management of data 1998
+changing the rules transformations for rule-based optimizers mitch cherniack stan zdonik international conference on management of data 1998
+balancing push and pull for data broadcast swarup acharya michael franklin stanley zdonik international conference on management of data 1997
+efficient view maintenance at data warehouses d agrawal a el abbadi a singh t yurek international conference on management of data 1997
+structural matching and discovery in document databases jason tsong-li wang dennis shasha george j s chang liam relihan kaizhong zhang girish patel international conference on management of data 1997
+on the cost of monitoring and reorganization of object bases for clustering carsten a gerlhof alfons kemper guido moerkotte acm sigmod record 1996
+an orthogonally persistent java m p atkinson l dayn&#232;s m j jordan t printezis s spence acm sigmod record 1996
+pattern matching and pattern discovery in scientific program and document databases jason t l wang kaizhong zhang dennis shasha international conference on management of data 1995
+mining quantitative association rules in large relational tables ramakrishnan srikant rakesh agrawal international conference on management of data 1996
+on-line reorganization of sparsely-populated b+-trees chendong zou betty salzberg international conference on management of data 1996
+goal-oriented buffer management revisited kurt p brown michael j carey miron livny international conference on management of data 1996
+rule languages and internal algebras for rule-based optimizers mitch cherniack stanley b zdonik international conference on management of data 1996
+aurora a data stream management system d abadi d carney u 199;etintemel m cherniack c convey c erwin e galvez m hatoun a maskey a rasin a singer m stonebraker n tatbul y xing r yan s zdonik international conference on management of data 2003
+scientific data repositories designing for a moving target etzard stolte christoph von praun gustavo alonso thomas gross international conference on management of data 2003
+hardware acceleration for spatial selections and joins chengyu sun divyakant agrawal amr el abbadi international conference on management of data 2003
+an optimal and progressive algorithm for skyline queries dimitris papadias yufei tao greg fu bernhard seeger international conference on management of data 2003
+location-based spatial queries jun zhang manli zhu dimitris papadias yufei tao dik lun lee international conference on management of data 2003
+spatial queries in dynamic environments yufei tao dimitris papadias acm transactions on database systems tods 2003
+efficient processing of joins on set-valued attributes nikos mamoulis international conference on management of data 2003
+guest editorial amr el abbadi gunter schlageter kyu-young whang the vldb journal mdash the international journal on very large data bases 2001
+a requirement-based approach to data modeling and re-engineering alice h muntz christian t ramiller very large data bases 1994
+analysis of predictive spatio-temporal queries yufei tao jimeng sun dimitris papadias acm transactions on database systems tods 2003
+fast algorithms for mining association rules in large databases rakesh agrawal ramakrishnan srikant very large data bases 1994
+aurora a new model and architecture for data stream management daniel j abadi don carney ugur 199;etintemel mitch cherniack christian convey sangdon lee michael stonebraker nesime tatbul stan zdonik the vldb journal mdash the international journal on very large data bases 2003
+a performance study of four index structures for set-valued attributes of low cardinality sven helmer guido moerkotte the vldb journal mdash the international journal on very large data bases 2003
+some issues in design of distributed deductive databases mukesh k mohania nandlal l sarda very large data bases 1994
+dual-buffering strategies in object bases alfons kemper donald kossmann very large data bases 1994

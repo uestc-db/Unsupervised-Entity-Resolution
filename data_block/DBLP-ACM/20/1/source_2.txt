@@ -1,0 +1,128 @@
+the active multisync controller of the cubetree storage organization nick roussopoulos yannis kotidis yannis sismanis international conference on management of data 1999
+managing web data dan suciu international conference on management of data 1999
+dynamat a dynamic view management system for data warehouses yannis kotidis nick roussopoulos international conference on management of data 1999
+finding generalized projected clusters in high dimensional spaces charu c aggarwal philip s yu international conference on management of data 2000
+the sift information dissemination system tak w yan hector garcia-molina acm transactions on database systems tods 1999
+design principles for data-intensive web sites stefano ceri piero fraternali stefano paraboschi acm sigmod record 1999
+gloss text-source discovery over the internet luis gravano h&#233;ctor garc&#237;a-molina anthony tomasic acm transactions on database systems tods 1999
+specification and implementation of exceptions in workflow management systems fabio casati stefano ceri stefano paraboschi guiseppe pozzi acm transactions on database systems tods 1999
+semantic interoperability in global information systems a m ouksel a sheth acm sigmod record 1999
+multiview access protocols for large-scale replication xiangning liu abdelsalam helal weimin du acm transactions on database systems tods 1998
+the idea web lab stefano ceri piero fraternali stefano paraboschi international conference on management of data 1998
+catching the boat with strudel experiences with a web-site management system mary fern&#225;ndez daniela florescu jaewoo kang alon levy dan suciu international conference on management of data 1998
+query optimization in the presence of limited access patterns daniela florescu alon levy ioana manolescu dan suciu international conference on management of data 1999
+an adaptive query execution system for data integration zachary g ives daniela florescu marc friedman alon levy daniel s weld international conference on management of data 1999
+reminiscences on influential papers richard snodgrass acm sigmod record 1998
+supporting valid-time indeterminacy curtis e dyreson richard thomas snodgrass acm transactions on database systems tods 1998
+data-driven understanding and refinement of schema mappings ling ling yan ren&#233;e j miller laura m haas ronald fagin international conference on management of data 2001
+selectivity estimation using probabilistic models lise getoor benjamin taskar daphne koller international conference on management of data 2001
+updating xml igor tatarinov zachary g ives alon y halevy daniel s weld international conference on management of data 2001
+clio a semi-automatic tool for schema mapping mauricio a hern&#225;ndez ren&#233;e j miller laura m haas international conference on management of data 2001
+outlier detection for high dimensional data charu c aggarwal philip s yu international conference on management of data 2001
+reminiscences in influential papers richard snodgrass acm sigmod record 1998
+a case for dynamic view management yannis kotidis nick roussopoulos acm transactions on database systems tods 2001
+distributed query evaluation on semistructured data dan suciu acm transactions on database systems tods 2002
+editorial richard snodgrass acm transactions on database systems tods 2001
+editorial richard snodgrass acm transactions on database systems tods 2001
+models and languages for describing and discovering e-services fabio casati ming-chien shan international conference on management of data 2001
+fact a learning based web query processing system songting chen yanlei diao hongjun lu zengping tian international conference on management of data 2000
+report on the vldb workshop on technologies for e-services tes fabio casati umesh dayal ming-chien shan acm sigmod record 2000
+a vision for management of complex models phillip a bernstein alon y halevy rachel a pottinger acm sigmod record 2000
+theory of answering queries using views alon y halevy acm sigmod record 2000
+the clio project managing heterogeneity ren&#233;e j miller mauricio a hern&#225;ndez laura m haas lingling yan c t howard ho ronald fagin lucian popa acm sigmod record 2001
+re-designing distance functions and distance-based applications for high dimensional data charu c aggarwal acm sigmod record 2001
+automata theory for xml researchers frank neven acm sigmod record 2002
+influential papers ken ross acm sigmod record 2002
+reminiscences on influential papers kenneth a ross theodore johnson richard thomas snodgrass acm sigmod record 2002
+combining fuzzy information an overview ronald fagin acm sigmod record 2002
+influential papers ken ross acm sigmod record 2001
+reminiscences on influential papers kenneth a ross acm sigmod record 2001
+reminiscences on influential papers kenneth a ross acm sigmod record 2001
+reminiscences on influential papers kenneth a ross acm sigmod record 2000
+on database theory and xml dan suciu acm sigmod record 2001
+updating knowledge bases while maintaining their consistency ernest teniente antoni oliv&#233 the vldb journal mdash the international journal on very large data bases 1995
+special system-oriented section the best of sigmod 94 stanley y w su the vldb journal mdash the international journal on very large data bases 1995
+reminiscences on influential papers kenneth a ross acm sigmod record 2002
+influential papers ken ross acm sigmod record 2002
+the xml typechecking problem dan suciu acm sigmod record 2002
+dwarf shrinking the petacube yannis sismanis antonios deligiannakis nick roussopoulos yannis kotidis international conference on management of data 2002
+hierarchical subspace sampling a unified framework for high dimensional data reduction selectivity estimation and nearest neighbor search charu c aggarwal international conference on management of data 2002
+mining the world wide web an information search approach by george chang marcus j healey editor james a m mchugh jason t l wang aris ouksel acm sigmod record 2002
+industrial panel on data warehousing technologies experiences challenges and directions umeshwar dayal very large data bases 1999
+spirit sequential pattern mining with regular expression constraints minos n garofalakis rajeev rastogi kyuseok shim very large data bases 1999
+extracting large-scale knowledge bases from the web ravi kumar prabhakar raghavan sridhar rajagopalan andrew tomkins very large data bases 1999
+data-driven one-to-one web site generation for data-intensive applications stefano ceri piero fraternali stefano paraboschi very large data bases 1999
+what is the nearest neighbor in high dimensional spaces alexander hinneburg charu c aggarwal daniel a keim very large data bases 2000
+schema mapping as query discovery ren&#233;e j miller laura m haas mauricio a hern&#225;ndez very large data bases 2000
+toward learning based web query processing yanlei diao hongjun lu songting chen zengping tian very large data bases 2000
+process automation as the foundation for e-business fabio casati ming-chien shan very large data bases 2000
+a scalable algorithm for answering queries using views rachel pottinger alon y levy very large data bases 2000
+efficient filtering of xml documents for selective dissemination of information mehmet altinel michael j franklin very large data bases 2000
+approximate query processing using wavelets kaushik chakrabarti minos n garofalakis rajeev rastogi kyuseok shim very large data bases 2000
+editorial peter apers stefano ceri richard snodgrass the vldb journal mdash the international journal on very large data bases 2002
+a formal perspective on the view selection problem rada chirkova alon y halevy dan suciu the vldb journal mdash the international journal on very large data bases 2002
+influential papers ken ross acm sigmod record 2003
+reminiscences on influential papers kenneth a ross acm sigmod record 2003
+merging ranks from heterogeneous internet sources luis gravano hector garcia-molina very large data bases 1997
+materialized views selection in a multidimensional database elena baralis stefano paraboschi ernest teniente very large data bases 1997
+the cubetree storage organization nick roussopoulos yannis kotidis very large data bases 1998
+is web-site management a database problem daniela florescu alon y levy dan suciu very large data bases 1998
+using probabilistic information in data integration daniela florescu daphne koller alon y levy very large data bases 1997
+information retrieval from an incomplete data cube curtis e dyreson very large data bases 1996
+obtaining complete answers from incomplete databases alon y levy very large data bases 1996
+implementation and analysis of a parallel collection query language dan suciu very large data bases 1996
+guest editorial matthias jarke the vldb journal mdash the international journal on very large data bases 1998
+guest editorial fabio casati ming-chien shan dimitrios georgakopoulos the vldb journal mdash the international journal on very large data bases 2001
+an xml query engine for network-bound data zachary g ives a y halevy d s weld the vldb journal mdash the international journal on very large data bases 2002
+efficient filtering of xml documents with xpath expressions c.-y chan p felber m garofalakis r rastogi the vldb journal mdash the international journal on very large data bases 2002
+guest editorial alon y halevy the vldb journal mdash the international journal on very large data bases 2002
+declarative specification of web sites with s mary fern&#225;ndez daniela florescu alon levy dan suciu the vldb journal mdash the international journal on very large data bases 2000
+self-similarity in the web stephen dill ravi kumar kevin s mccurley sridhar rajagopalan d sivakumar andrew tomkins very large data bases 2001
+improving business process quality through exception understanding prediction and prevention daniela grigori fabio casati umeshwar dayal ming-chien shan very large data bases 2001
+index structures for selective dissemination of information under the boolean model tak w yan h&#233;ctor garc&#237;a-molina acm transactions on database systems tods 1994
+vxmlr a visual xml-relational database system aoying zhou hongjun lu shihui zheng yuqi liang long zhang wenyun ji zengping tian very large data bases 2001
+warehousing workflow data challenges and opportunities angela bonifati fabio casati umeshwar dayal ming-chien shan very large data bases 2001
+a formal perspective on the view selection problem rada chirkova alon y halevy dan suciu very large data bases 2001
+integrating the ub-tree into a database system kernel frank ramsak volker markl robert fenk martin zirkel klaus elhardt rudolf bayer very large data bases 2000
+document management as a database problem rudolf bayer very large data bases 1995
+duplicate removal in information system dissemination tak w yan hector garcia-molina very large data bases 1995
+generalizing gloss to vector-space databases and broker hierarchies luis gravano hector garcia-molina very large data bases 1995
+join queries with external text sources execution and optimization techniques surajit chaudhuri umeshwar dayal tak w yan international conference on management of data 1995
+reducing multidatabase query response time by tree balancing weimin du ming-chien shan umeshwar dayal international conference on management of data 1995
+the algres testbed of chimera an active object-oriented database system stefano ceri piero fraternali stefano paraboschi giuseppe psaila international conference on management of data 1995
+information finding in a digital library the stanford perspective tak w yan h&#233;ctor garc&#237;a-molina acm sigmod record 1995
+a structured approach for the definition of the semantics of active databases piero fraternali letizia tanca acm transactions on database systems tods 1995
+mobile computing and databases anything new margaret h dunham abdelsalam helal acm sigmod record 1995
+automatic generation of production rules for integrity maintenance stefano ceri piero fraternali stefano paraboschi letizia tanca acm transactions on database systems tods 1994
+the effectiveness of gioss for the text database discovery problem luis gravano h&#233;ctor garc&#237;a-molina anthony tomasic international conference on management of data 1994
+adaptive selectivity estimation using query feedback chungmin melvin chen nick roussopoulos international conference on management of data 1994
+management of semistructured data dan suciu acm sigmod record 1997
+materialized views and data warehouses nick roussopoulos acm sigmod record 1998
+automatic subspace clustering of high dimensional data for data mining applications rakesh agrawal johannes gehrke dimitrios gunopulos prabhakar raghavan international conference on management of data 1998
+using schematically heterogeneous structures re&#233;e j miller international conference on management of data 1998
+association rules over interval data r j miller y yang international conference on management of data 1997
+data warehousing and olap for decision support surajit chaudhuri umeshwar dayal international conference on management of data 1997
+a query language for a web-site management system mary fernandez daniela florescu alon levy dan suciu acm sigmod record 1997
+strudel a web site management system mary fernandez daniela florescu jaewoo kang alon levy dan suciu international conference on management of data 1997
+an overview of data warehousing and olap technology surajit chaudhuri umeshwar dayal acm sigmod record 1997
+on the semantics of now in databases james clifford curtis dyreson tom&#225;s isakowitz christian s jensen richard thomas snodgrass acm transactions on database systems tods 1997
+cubetree organization of and bulk incremental updates on the data cube nick roussopoulos yannis kotidis mema roussopoulos international conference on management of data 1997
+modularization techniques for active rules design elena baralis stefano ceri stefano paraboschi acm transactions on database systems tods 1996
+optimizing queries over multimedia repositories surajit chaudhuri luis gravano international conference on management of data 1996
+abstracts of invited industrial track presentations zachary ives international conference on management of data 2003
+trex dtd-conforming xml to xml transformations aoying zhou qing wang zhimao guo xueqing gong shihui zheng hongwei wu jianchang xiao kun yue wenfei fan international conference on management of data 2003
+efficient similarity search and classification via rank aggregation ronald fagin ravi kumar d sivakumar international conference on management of data 2003
+capturing both types and constraints in data integration michael benedikt chee-yong chan wenfei fan juliana freire rajeev rastogi international conference on management of data 2003
+temporal coalescing with now granularity and incomplete information curtis e dyreson international conference on management of data 2003
+extended wavelets for multiple measures antonios deligiannakis nick roussopoulos international conference on management of data 2003
+approximate query processing using wavelets kaushik chakrabarti minos garofalakis rajeev rastogi kyuseok shim the vldb journal mdash the international journal on very large data bases 2001
+minicon a scalable algorithm for answering queries using views rachel pottinger alon halevy the vldb journal mdash the international journal on very large data bases 2001
+answering queries using views a survey alon y halevy the vldb journal mdash the international journal on very large data bases 2001
+special topic section on peer to peer data management acm sigmod record 2003
+special section on sensor network technology and sensor data managment acm sigmod record 2003
+systems and prototypes acm sigmod record 2001
+special section on advanced xml data processing acm sigmod record 2001
+path sharing and predicate evaluation for high-performance xml filtering yanlei diao mehmet altinel michael j franklin hao zhang peter fischer acm transactions on database systems tods 2003
+computing complete answers to queries in the presence of limited access patterns chen li the vldb journal mdash the international journal on very large data bases 2003
+in-context peer-to-peer information filtering on the web aris m ouksel acm sigmod record 2003
+re-tree an efficient index structure for regular expressions chee-yong chan minos garofalakis rajeev rastogi the vldb journal mdash the international journal on very large data bases 2003

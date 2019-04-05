@@ -1,0 +1,131 @@
+tip a temporal extension to informix huacheng c ying jennifer widom jun yang sigmod conference 2000
+data mining techniques jiawei han sigmod conference 1996
+caching multidimensional queries using chunks karthikeyan ramasamy prasad deshpande amit shukla jeffrey f naughton sigmod conference 1998
+fault-tolerant load-balancing queries in telegraph mehul a shah sirish chandrasekaran sigmod conference 2001
+icicles self-tuning samples for approximate query answering venkatesh ganti raghu ramakrishnan mong-li lee vldb 2000
+integrated data management for mobile services in the real world igor timko torben bach pedersen christian hage christian s jensen laurynas speicys vldb 2003
+transaction timestamping in temporal databases christian s jensen david b lomet vldb 2001
+a comparative study of alternative middle tier caching solutions to support dynamic web content acceleration anindya datta kaushik dutta helen m thomas debra e vandermeer krithi ramamritham dan fishman vldb 2001
+java support for data-intensive systems experiences building the telegraph dataflow system michael j franklin samuel madden joseph m hellerstein mehul a shah sigmod record 2001
+olap powerful and easy-to-use federations of olap and object databases junmin gu arie shoshani torben bach pedersen vldb 2000
+data bubbles quality preserving performance boosting for hierarchical clustering jrg sander hans-peter kriegel peer krger markus m breunig sigmod conference 2001
+distributing queries over low-power wireless sensor networks samuel madden joseph m hellerstein sigmod conference 2002
+xpath queries on streaming data sudarshan s chawathe feng peng sigmod conference 2003
+closest pair queries in spatial databases yannis theodoridis yannis manolopoulos antonio corral michael vassilakopoulos sigmod conference 2000
+adam a testbed for exploring the use of data mining in intrusion detection daniel barbar sushil jajodia ningning wu julia couto sigmod record 2001
+amicalola report database and information system research challenges and opportunities in semantic web and enterprises robert meersman amit p sheth sigmod record 2002
+dynamic content acceleration a caching solution to enable scalable dynamic web page generation debra e vandermeer krithi ramamritham helen m thomas anindya datta kaushik dutta sigmod conference 2001
+telegraphcq continuous dataflow processing mehul a shah wei hong sirish chandrasekaran samuel madden sailesh krishnamurthy amol deshpande frederick reiss owen cooper joseph m hellerstein michael j franklin sigmod conference 2003
+the treescape system reuse of pre-computed aggregates over irregular olap hierarchies curtis e dyreson torben bach pedersen christian s jensen vldb 2000
+robust and efficient fuzzy match for online data cleaning surajit chaudhuri kris ganjam venkatesh ganti rajeev motwani sigmod conference 2003
+efficient execution of joins in a star schema andreas weininger sigmod conference 2002
+lof identifying density-based local outliers hans-peter kriegel raymond t ng markus m breunig jrg sander sigmod conference 2000
+expiring data in a warehouse wilburt labio jun yang hector garcia-molina vldb 1998
+editor's notes michael j franklin sigmod record 2000
+explaining differences in multidimensional aggregates sunita sarawagi vldb 1999
+workflow automation applications technology and research tutorial amit p sheth sigmod conference 1995
+user-cognizant multidimensional analysis sunita sarawagi vldb j 2001
+sensor the atomic computing particle vijay kumar sigmod record 2003
+implementing data cubes efficiently anand rajaraman jeffrey d ullman venky harinarayan sigmod conference 1996
+on-line warehouse view maintenance jennifer widom dallan quass sigmod conference 1997
+boat-optimistic decision tree construction wei-yin loh raghu ramakrishnan venkatesh ganti johannes gehrke sigmod conference 1999
+continuously adaptive continuous queries over streams samuel madden mehul a shah vijayshankar raman joseph m hellerstein sigmod conference 2002
+reordering query execution in tertiary memory databases michael stonebraker sunita sarawagi vldb 1996
+comparing hierarchical data in external memory sudarshan s chawathe vldb 1999
+algorithms for mining distance-based outliers in large datasets raymond t ng edwin m knorr vldb 1998
+capability based mediation in tsimmis hector garcia-molina murty valiveti chen li ramana yerneni jeffrey d ullman vasilis vassalos yannis papakonstantinou sigmod conference 1998
+c2p clustering based on closest pairs yannis theodoridis alexandros nanopoulos yannis manolopoulos vldb 2001
+editor's farewell notes arie segev sigmod record 1995
+handling very large databases with informix extended parallel server andreas weininger sigmod conference 2000
+eliminating fuzzy duplicates in data warehouses rohit ananthakrishna venkatesh ganti surajit chaudhuri vldb 2002
+query processing in tertiary memory databases sunita sarawagi vldb 1995
+editor's notes jennifer widom sigmod record 1995
+fast algorithms for projected clustering joel l wolf cecilia magdalena procopiuc jong soo park charu c aggarwal philip s yu sigmod conference 1999
+guest editor's introduction asuman dogac sigmod record 1998
+virtual database technology venky harinarayan ashish gupta anand rajaraman sigmod record 1997
+editor's notes michael j franklin sigmod record 1997
+lore a database management system for semistructured data roy goldman serge abiteboul jennifer widom dallan quass jason mchugh sigmod record 1997
+energy and rate based mac protocol for wireless sensor networks ramaraju kalidindi vijay kumar rajgopal kannan s sitharama iyengar sigmod record 2003
+guest editor's introduction karl aberer sigmod record 2003
+simultaneous optimization and evaluation of multiple dimensional queries amit shukla jeffrey f naughton yihong zhao prasad deshpande sigmod conference 1998
+effective timestamping in databases christian s jensen kristian torp richard t snodgrass vldb j 2000
+editor's notes jennifer widom sigmod record 1996
+editor's notes jennifer widom sigmod record 1996
+a new method for similarity indexing of market basket data joel l wolf charu c aggarwal philip s yu sigmod conference 1999
+editor's notes michael j franklin sigmod record 2000
+editor's notes ling liu sigmod record 2001
+e-commerce database issues and experience anand rajaraman sigmod conference 1999
+the design of an acquisitional query processor for sensor networks samuel madden wei hong joseph m hellerstein michael j franklin sigmod conference 2003
+proxy-based acceleration of dynamically generated content on the world wide web an approach and implementation suresha kaushik dutta krithi ramamritham anindya datta helen m thomas debra e vandermeer sigmod conference 2002
+robust estimation with sampling and approximate pre-aggregation chris jermaine vldb 2003
+lore a lightweight object repository for semistructured data janet l wiener jason mchugh serge abiteboul qingshan luo anand rajaraman dallan quass jeffrey d ullman roy goldman hugo rivero jennifer widom svetlozar nestorov kevin haas sigmod conference 1996
+an array-based algorithm for simultaneous multidimensional aggregates jeffrey f naughton yihong zhao prasad deshpande sigmod conference 1997
+qursed querying and reporting semistructured data yannis papakonstantinou michalis petropoulos vasilis vassalos sigmod conference 2002
+incremental clustering for mining in a data warehousing environment xiaowei xu michael wimmer jrg sander martin ester hans-peter kriegel vldb 1998
+incremental computation and maintenance of temporal aggregates jun yang jennifer widom vldb j 2003
+guest editor's introduction asuman dogac sigmod record 2002
+editor's notes michael j franklin sigmod record 1999
+the sensor spectrum technology trends and requirements samuel madden wei hong joseph m hellerstein sigmod record 2003
+editor's notes michael j franklin sigmod record 1997
+streaming queries over streaming data michael j franklin sirish chandrasekaran vldb 2002
+editor's notes michael j franklin sigmod record 2000
+computing capabilities of mediators chen li ramana yerneni jeffrey d ullman hector garcia-molina sigmod conference 1999
+guest editor's introduction robert meersman amit p sheth sigmod record 2002
+editor's notes michael j franklin sigmod record 1998
+wavelet-based histograms for selectivity estimation jeffrey scott vitter yossi matias min wang sigmod conference 1998
+automation in information extraction and data integration sunita sarawagi vldb 2002
+an effective hash based algorithm for mining association rules ming-syan chen philip s yu jong soo park sigmod conference 1995
+towards on-line analytical mining in large databases jiawei han sigmod record 1998
+efficient and effective clustering methods for spatial data mining raymond t ng jiawei han vldb 1994
+materialized view selection for multidimensional datasets jeffrey f naughton amit shukla prasad deshpande vldb 1998
+a novel index supporting high volume data warehouse insertion anindya datta chris jermaine edward omiecinski vldb 1999
+selectivity estimation in spatial databases viswanath poosala sridhar ramaswamy swarup acharya sigmod conference 1999
+demonstration enabling scalable online personalization on the web debra e vandermeer krithi ramamritham anindya datta kaushik dutta helen m thomas vldb 2000
+approximate computation of multidimensional aggregates of sparse data using wavelets min wang jeffrey scott vitter sigmod conference 1999
+efficient similarity search for market basket data alexandros nanopoulos yannis manolopoulos vldb j 2002
+extending practical pre-aggregation in on-line analytical processing torben bach pedersen curtis e dyreson christian s jensen vldb 1999
+generating spatiotemporal datasets on the www mario a nascimento yannis theodoridis sigmod record 2000
+shrinking the warehouse update window hector garcia-molina ramana yerneni wilburt labio sigmod conference 1999
+special issue on data mining for intrusion detection and threat analysis guest editor's introduction daniel barbar sigmod record 2001
+broadcast protocols to support efficient retrieval from databases by mobile users anindya datta vijay kumar aslihan celik debra e vandermeer acm trans database syst 1999
+describing and using query capabilities of heterogeneous sources yannis papakonstantinou vasilis vassalos vldb 1997
+editor's notes and erratum arie segev sigmod record 1994
+aqua a fast decision support systems using approximate query answers swarup acharya phillip b gibbons viswanath poosala vldb 1999
+editor's notes arie segev sigmod record 1994
+analysis of sigmod's co-authorship graph mario a nascimento jrg sander jeffrey pound sigmod record 2003
+on applying hash filters to improving the execution of multi-join queries philip s yu ming-syan chen hui-i hsiao vldb j 1997
+template-based wrappers in the tsimmis system joachim hammer hector garcia-molina svetlozar nestorov ramana yerneni markus m breunig vasilis vassalos sigmod conference 1997
+advanced xml data processing guest editor's introduction karl aberer sigmod record 2001
+join synopses for approximate query answering swarup acharya viswanath poosala phillip b gibbons sridhar ramaswamy sigmod conference 1999
+congressional samples for approximate answering of group-by queries viswanath poosala swarup acharya phillip b gibbons sigmod conference 2000
+storage estimation for multidimensional aggregates in the presence of hierarchies jeffrey f naughton amit shukla karthikeyan ramasamy prasad deshpande vldb 1996
+dynamic maintenance of wavelet-based histograms yossi matias jeffrey scott vitter min wang vldb 2000
+on parallel execution of multiple pipelined hash joins philip s yu hui-i hsiao ming-syan chen sigmod conference 1994
+meaningful change detection in structured data hector garcia-molina sudarshan s chawathe sigmod conference 1997
+fast incremental maintenance of approximate histograms viswanath poosala phillip b gibbons yossi matias acm trans database syst 2002
+user-adaptive exploration of multidimensional data sunita sarawagi vldb 2000
+on the computation of multidimensional aggregates sunita sarawagi ashish gupta rakesh agrawal prasad deshpande jeffrey f naughton sameet agarwal raghu ramakrishnan vldb 1996
+editor's notes michael j franklin sigmod record 1998
+editor's notes michael j franklin sigmod record 1999
+query rewriting for semistructured data vasilis vassalos yannis papakonstantinou sigmod conference 1999
+finding intensional knowledge of distance-based outliers raymond t ng edwin m knorr vldb 1999
+editor's notes michael j franklin sigmod record 1997
+performance issues in incremental warehouse maintenance hector garcia-molina wilburt labio yingwei cui jennifer widom jun yang vldb 2000
+fast incremental maintenance of approximate histograms yossi matias phillip b gibbons viswanath poosala vldb 1997
+change detection in hierarchically structured information jennifer widom sudarshan s chawathe hector garcia-molina anand rajaraman sigmod conference 1996
+an architecture to support scalable online personalization on the web kaushik dutta debra e vandermeer krithi ramamritham anindya datta shamkant b navathe vldb j 2001
+editor's notes michael j franklin sigmod record 1998
+aggregate-query processing in data warehousing environments venky harinarayan dallan quass ashish gupta vldb 1995
+editor's notes michael j franklin sigmod record 1999
+editor's notes arie segev sigmod record 1994
+curio a novel solution for efficient storage and indexing in data warehouses helen m thomas krithi ramamritham anindya datta vldb 1999
+incremental maintenance for materialized views over semistructured data vasilis vassalos janet l wiener michael rys serge abiteboul jason mchugh vldb 1998
+rainforest a framework for fast decision tree construction of large datasets johannes gehrke venkatesh ganti raghu ramakrishnan vldb 1998
+optics ordering points to identify the clustering structure jrg sander hans-peter kriegel markus m breunig mihael ankerst sigmod conference 1999
+the aqua approximate query answering system sridhar ramaswamy swarup acharya phillip b gibbons viswanath poosala sigmod conference 1999
+psoup a system for streaming queries over streaming data sirish chandrasekaran michael j franklin vldb j 2003
+editor's notes jennifer widom sigmod record 1995
+distance-based outliers algorithms and applications v tucakov raymond t ng edwin m knorr vldb j 2000
+peer-to-peer harnessing the power of disruptive technologies mario a nascimento sigmod record 2003
+editor's notes jennifer widom sigmod record 1996
+report on the 1995 international workshop on temporal databases arie segev richard t snodgrass christian s jensen sigmod record 1995

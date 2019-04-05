@@ -1,0 +1,131 @@
+the effectiveness of gloss for the text database discovery problem luis gravano anthony tomasic hector garcia-molina sigmod conference 1994
+using probabilistic information in data integration alon y levy daniela florescu daphne koller vldb 1997
+mining the world wide web an information search approach book review aris m ouksel sigmod record 2002
+automatic generation of production rules for integrity maintenance letizia tanca stefano ceri piero fraternali stefano paraboschi acm trans database syst 1994
+data warehousing and olap for decision support tutorial surajit chaudhuri umeshwar dayal sigmod conference 1997
+information retrieval from an incomplete data cube curtis e dyreson vldb 1996
+a query language for a web-site management system dan suciu daniela florescu alon y levy mary f fernandez sigmod record 1997
+in-context peer-to-peer information filtering on the web aris m ouksel sigmod record 2003
+computing complete answers to queries in the presence of limited access patterns chen li vldb j 2003
+temporal coalescing with now granularity and incomplete information curtis e dyreson sigmod conference 2003
+gloss text-source discovery over the internet hector garcia-molina luis gravano anthony tomasic acm trans database syst 1999
+reminiscences on influential papers kaladhar voruganti rene j miller kenneth a ross flip korn sigmod record 2002
+fact a learning based web query processing system zengping tian hongjun lu yanlei diao songting chen sigmod conference 2000
+an overview of data warehousing and olap technology surajit chaudhuri umeshwar dayal sigmod record 1997
+updating xml daniel s weld zachary g ives igor tatarinov alon y halevy sigmod conference 2001
+editorial peter m g apers stefano ceri richard t snodgrass vldb j 2002
+reminiscences on influential papers theodore johnson amr el abbadi richard t snodgrass kenneth a ross sigmod record 2002
+the idea web lab piero fraternali stefano paraboschi stefano ceri sigmod conference 1998
+the generalized pre-grouping transformation aggregate-query optimization in the presence of dependencies timos k sellis aris tsois vldb 2003
+a scalable algorithm for answering queries using views rachel pottinger alon y levy vldb 2000
+re-designing distance functions and distance-based applications for high dimensional data charu c aggarwal sigmod record 2001
+a vision of management of complex models rachel pottinger alon y halevy philip a bernstein sigmod record 2000
+an adaptive query execution system for data integration daniel s weld alon y levy marc friedman zachary g ives daniela florescu sigmod conference 1999
+adaptive selectivity estimation using query feedback chung-min chen nick roussopoulos sigmod conference 1994
+reminiscences on influential papers mitch cherniack kenneth a ross gottfried vossen sigmod record 2003
+path sharing and predicate evaluation for high-performance xml filtering yanlei diao hao zhang peter m fischer michael j franklin mehmet altinel acm trans database syst 2003
+a case for dynamic view management nick roussopoulos yannis kotidis acm trans database syst 2001
+vldb workshop on technologies in e-services tes ming-chien shan fabio casati umeshwar dayal sigmod record 2000
+re-tree an efficient index structure for regular expressions rajeev rastogi minos n garofalakis chee yong chan vldb 2002
+dtd-directed publishing with attribute translation grammars michael benedikt aoying zhou rajeev rastogi shihui zheng chee yong chan wenfei fan vldb 2002
+modularization techniques for active rules design stefano ceri elena baralis stefano paraboschi acm trans database syst 1996
+managing web data dan suciu sigmod conference 1999
+reminiscences an influential papers jeffrey f naughton minos n garofalakis kenneth a ross sigmod record 2003
+foreword management of semistructured data dan suciu sigmod record 1997
+reminiscences on influential papers jun rao kenneth a ross johannes gehrke sigmod record 2003
+catching the boat with strudel experiences with a web-site management system jaewoo kang dan suciu alon y levy daniela florescu mary f fernandez sigmod conference 1998
+a formal perspective on the view selection problem dan suciu rada chirkova alon y halevy vldb 2001
+dwarf shrinking the petacube yannis kotidis yannis sismanis antonios deligiannakis nick roussopoulos sigmod conference 2002
+the active multisync controller of the cubetree storage organization yannis sismanis yannis kotidis nick roussopoulos sigmod conference 1999
+data-driven understanding and refinement of schema mappings laura m haas ling-ling yan ronald fagin rene j miller sigmod conference 2001
+e-services guest editorial dimitrios georgakopoulos ming-chien shan fabio casati vldb j 2001
+schema mapping as query discovery rene j miller mauricio a hernndez laura m haas vldb 2000
+design principles for data-intensive web sites piero fraternali stefano paraboschi stefano ceri sigmod record 1999
+strudel a web-site management system alon y levy mary f fernandez jaewoo kang daniela florescu dan suciu sigmod conference 1997
+trex dtd-conforming xml to xml transformations xueqing gong kun yue aoying zhou zhimao guo jianchang xiao wenfei fan hongwei wu qing wang shihui zheng sigmod conference 2003
+updating knowledge bases while maintaining their consistency antoni oliv ernest teniente vldb j 1995
+reducing multidatabase query response time by tree balancing weimin du ming-chien shan umeshwar dayal sigmod conference 1995
+from the guest editors special section on data management issues in mobile computing margaret h dunham abdelsalam helal sigmod record 1995
+mobile computing and databases anything new margaret h dunham abdelsalam helal sigmod record 1995
+association rules over interval data rene j miller yuping yang sigmod conference 1997
+vxmlr a visual xml-relational database system aoying zhou wenyun ji shihui zheng hongjun lu yuqi liang zengping tian long zhang vldb 2001
+theory of answering queries using views alon y halevy sigmod record 2000
+approximate query processing using wavelets rajeev rastogi minos n garofalakis kyuseok shim kaushik chakrabarti vldb j 2001
+a formal perspective on the view selection problem rada chirkova dan suciu alon y halevy vldb j 2002
+duplicate removal in information system dissemination tak w yan hector garcia-molina vldb 1995
+finding generalized projected clusters in high dimensional spaces charu c aggarwal philip s yu sigmod conference 2000
+the xml typechecking problem dan suciu sigmod record 2002
+minicon a scalable algorithm for answering queries using views rachel pottinger alon y halevy vldb j 2001
+addendum to automatic generation of production rules for integrity maintenance letizia tanca stefano paraboschi piero fraternali stefano ceri acm trans database syst 1995
+selectivity estimation using probabilistic models daphne koller lise getoor benjamin taskar sigmod conference 2001
+translating web data rene j miller ronald fagin yannis velegrakis mauricio a hernndez lucian popa vldb 2002
+warehousing workflow data challenges and opportunities umeshwar dayal ming-chien shan angela bonifati fabio casati vldb 2001
+toward learning based web query processing yanlei diao hongjun lu zengping tian songting chen vldb 2000
+information finding in a digital library the stanford perspective tak w yan hector garcia-molina sigmod record 1995
+automatic subspace clustering of high dimensional data for data mining applications johannes gehrke rakesh agrawal dimitrios gunopulos prabhakar raghavan sigmod conference 1998
+a structured approach for the definition of the semantics of active databases letizia tanca piero fraternali acm trans database syst 1995
+extended wavelets for multiple measures antonios deligiannakis nick roussopoulos sigmod conference 2003
+efficient filtering of xml documents with xpath expressions rajeev rastogi pascal felber chee yong chan minos n garofalakis vldb j 2002
+hierarchical subspace sampling a unified framework for high dimensional data reduction selectivity estimation and nearest neighbor search charu c aggarwal sigmod conference 2002
+what is the nearest neighbor in high dimensional spaces charu c aggarwal alexander hinneburg daniel a keim vldb 2000
+data-driven one-to-one web site generation for data-intensive applications stefano paraboschi piero fraternali stefano ceri vldb 1999
+using schematically heterogeneous structures rene j miller sigmod conference 1998
+processing star queries on hierarchically-clustered fact tables nikos karayannidis frank ramsak timos k sellis rudolf bayer robert fenk klaus elhardt volker markl roland pieringer aris tsois vldb 2002
+combining fuzzy information an overview ronald fagin sigmod record 2002
+efficient similarity search and classification via rank aggregation ravi kumar d sivakumar ronald fagin sigmod conference 2003
+process automation as the foundation for e-business fabio casati ming-chien shan vldb 2000
+approximate query processing using wavelets kyuseok shim kaushik chakrabarti minos n garofalakis rajeev rastogi vldb 2000
+merging models based on given correspondences philip a bernstein rachel pottinger vldb 2003
+semantic interoperability in global information systems a brief introduction to the research area and the special section amit p sheth aris m ouksel sigmod record 1999
+answering queries using views a survey alon y halevy vldb j 2001
+capturing both types and constraints in data integration juliana freire rajeev rastogi michael benedikt wenfei fan chee yong chan sigmod conference 2003
+dynamat a dynamic view management system for data warehouses nick roussopoulos yannis kotidis sigmod conference 1999
+obtaining complete answers from incomplete databases alon y levy vldb 1996
+automata theory for xml researchers frank neven sigmod record 2002
+query optimization in the presence of limited access patterns dan suciu ioana manolescu daniela florescu alon y levy sigmod conference 1999
+tree pattern aggregation for scalable xml data dissemination rajeev rastogi pascal felber chee yong chan wenfei fan minos n garofalakis vldb 2002
+industrial panel on data warehousing technologies experiences challenges and directions umeshwar dayal vldb 1999
+cubetree organization of and bulk updates on the data cube nick roussopoulos mema roussopoulos yannis kotidis sigmod conference 1997
+an xml query engine for network-bound data daniel s weld alon y halevy zachary g ives vldb j 2002
+editorial richard t snodgrass acm trans database syst 2001
+multiview access protocols for large-scale replication weimin du xiangning liu abdelsalam helal acm trans database syst 1998
+outlier detection for high dimensional data charu c aggarwal philip s yu sigmod conference 2001
+reminiscences on influential papers kenneth a ross beng chin ooi frank neven sigmod record 2003
+supporting valid-time indeterminacy richard t snodgrass curtis e dyreson acm trans database syst 1998
+the sift information dissemination system tak w yan hector garcia-molina acm trans database syst 1999
+extracting and exploiting structure in text search prabhakar raghavan sigmod conference 2003
+efficient filtering of xml documents for selective dissemination of information michael j franklin mehmet altinel vldb 2000
+index structures for selective dissemination of information under the boolean model tak w yan hector garcia-molina acm trans database syst 1994
+business process cockpit umeshwar dayal mehmet sayal ming-chien shan fabio casati vldb 2002
+reminiscences on influential papers kenneth a ross kyuseok shim mary f fernandez sigmod record 2002
+materialized views and data warehouses nick roussopoulos sigmod record 1998
+the clio project managing heterogeneity rene j miller c t howard ho lucian popa ling-ling yan ronald fagin mauricio a hernndez laura m haas sigmod record 2001
+merging ranks from heterogeneous internet sources hector garcia-molina luis gravano vldb 1997
+reminiscences on influential papers richard t snodgrass sigmod record 1999
+is web-site management a database problem daniela florescu dan suciu alon y levy vldb 1998
+on database theory and xml dan suciu sigmod record 2001
+spirit sequential pattern mining with regular expression constraints rajeev rastogi kyuseok shim minos n garofalakis vldb 1999
+clio a semi-automatic tool for schema mapping laura m haas rene j miller mauricio a hernndez sigmod conference 2001
+reminiscences on influential papers richard t snodgrass sigmod record 1998
+editorial richard t snodgrass acm trans database syst 2001
+on the semantics of now in databases christian s jensen toms isakowitz richard t snodgrass curtis e dyreson james clifford acm trans database syst 1997
+extracting large-scale knowledge bases from the web andrew tomkins prabhakar raghavan ravi kumar sridhar rajagopalan vldb 1999
+optimizing queries over multimedia repositories luis gravano surajit chaudhuri sigmod conference 1996
+improving business process quality through exception understanding prediction and prevention fabio casati daniela grigori umeshwar dayal ming-chien shan vldb 2001
+document management as a database problem rudolf bayer vldb 1995
+self-similarity in the web stephen dill andrew tomkins ravi kumar sridhar rajagopalan kevin s mccurley d sivakumar vldb 2001
+declarative specification of web sites with strudel alon y levy dan suciu daniela florescu mary f fernandez vldb j 2000
+models and languages for describing and discovering e-services ming-chien shan fabio casati sigmod conference 2001
+distributed query evaluation on semistructured data dan suciu acm trans database syst 2002
+generalizing gloss to vector-space databases and broker hierarchies luis gravano hector garcia-molina vldb 1995
+re-tree an efficient index structure for regular expressions chee yong chan minos n garofalakis rajeev rastogi vldb j 2003
+query processing for high-volume xml message brokering michael j franklin yanlei diao vldb 2003
+guest editorial alon y halevy vldb j 2002
+integrating the ub-tree into a database system kernel robert fenk rudolf bayer volker markl martin zirkel frank ramsak klaus elhardt vldb 2000
+materialized views selection in a multidimensional database ernest teniente elena baralis stefano paraboschi vldb 1997
+overview of the special section on temporal database infrastructure richard t snodgrass sigmod record 1994
+specification and implementation of exceptions in workflow management systems stefano paraboschi stefano ceri fabio casati giuseppe pozzi acm trans database syst 1999
+join queries with external text sources execution and optimization techniques umeshwar dayal surajit chaudhuri tak w yan sigmod conference 1995
+the cubetree storage organization yannis kotidis nick roussopoulos vldb 1998
+implementation and analysis of a parallel collection query language dan suciu vldb 1996
+the algres testbed of chimera an active object-oriented database system giuseppe psaila stefano ceri stefano paraboschi piero fraternali sigmod conference 1995

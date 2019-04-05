@@ -136,7 +136,7 @@ void outputFinal(int N, Bipartite* bigraph, CliqueRankMatrix* walker, set<string
  */
 int main(int argc, char** argv)
 {
-	int scale = 3;
+	int scale = 2;
 	int alpha = 20;
 	int S = 20;
 	float eta = 0.98;

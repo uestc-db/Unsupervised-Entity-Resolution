@@ -1,0 +1,131 @@
+efficient geometry-based similarity search of 3d spatial databases daniel a keim international conference on management of data 1999
+first-class views a key to user-centered computing arnon rosenthal edward sciore acm sigmod record 1999
+sql 1999 formerly known as sql3 andrew eisenberg jim melton acm sigmod record 1999
+sqlj part 0 now known as sql/olb object-language bindings andrew eisenberg jim melton acm sigmod record 1998
+dynamic service matchmaking among agents in open information environments katia sycara matthias klusch seth widoff jianguo lu acm sigmod record 1999
+semantic interoperability in information services experiencing with coopware avigdor gal acm sigmod record 1999
+towards a theory of cost management for digital libraries and electronic commerce a prasad sistla ouri wolfson yelena yesha robert sloan acm transactions on database systems tods 1998
+high-dimensional index structures database support for next decade's applications tutorial stefan berchtold daniel a keim international conference on management of data 1998
+electronic commerce tutorial nabil r adam yelena yesha international conference on management of data 1998
+a multi-similarity algebra s adali p bonatti m l sapino v s subrahmanian international conference on management of data 1998
+ripple joins for online aggregation peter j haas joseph m hellerstein international conference on management of data 1999
+an efficient bitmap encoding scheme for selection queries chee-yong chan yannis e ioannidis international conference on management of data 1999
+multi-dimensional selectivity estimation using compressed histogram information ju-hong lee deok-hwan kim chin-wan chung international conference on management of data 1999
+a multimedia presentation algebra s adali m l sapino v s subrahmanian international conference on management of data 1999
+an access control model supporting periodicity constraints and temporal reasoning elisa bertino claudio bettini elena ferrari pierangela samarati acm transactions on database systems tods 1998
+standards in practice andrew eisenberg jim melton acm sigmod record 1998
+bess storage support for interactive visualization systems a biliris t a funkhouser w o'connell e panagos international conference on management of data 1996
+algebraic change propagation for semijoin and outerjoin queries timothy griffin bharat kumar acm sigmod record 1998
+prospector a content-based multimedia server for massively parallel architectures s choo w o'connell g linerman h chen k ganapathy a biliris e panagos d schrader international conference on management of data 1996
+databases and visualization daniel a keim international conference on management of data 1996
+on supporting containment queries in relational database management systems chun zhang jeffrey naughton david dewitt qiong luo guy lohman international conference on management of data 2001
+enabling dynamic content caching for database-driven web sites k sel&#231;uk candan wen-syan li qiong luo wang-pin hsiung divyakant agrawal international conference on management of data 2001
+securing xml documents the author-x project demonstration elisa bertino silvana castano elena ferrari international conference on management of data 2001
+answering queries with useful bindings chen li edward chang acm transactions on database systems tods 2001
+flexible support for multiple access control policies sushil jajodia pierangela samarati maria luisa sapino v s subrahmanian acm transactions on database systems tods 2001
+the design and performance evaluation of alternative xml storage strategies feng tian david j dewitt jianjun chen chun zhang acm sigmod record 2002
+pbir perception-based image retrieval edward chang kwang-ting cheng lihyuarn l chang international conference on management of data 2001
+online query processing a tutorial peter j haas joseph m hellerstein international conference on management of data 2001
+data management in ecommerce tutorial session the good the bad and the ugly avigdor gal international conference on management of data 2000
+webview materialization alexandros labrinidis nick roussopoulos international conference on management of data 2000
+niagaracq a scalable continuous query system for internet databases jianjun chen david j dewitt feng tian yuan wang international conference on management of data 2000
+eddies continuously adaptive query processing ron avnur joseph m hellerstein international conference on management of data 2000
+comparative analysis of six xml schema languages dongwon lee wesley w chu acm sigmod record 2000
+quality of service in multimedia digital libraries elisa bertino ahmed k elmagarmid mohand-sa&#239;d hacid acm sigmod record 2001
+comparative analysis of five xml query languages angela bonifati stefano ceri acm sigmod record 2000
+generating dynamic content at database-backed web servers cgi-bin vs mod_perl alexandros labrinidis nick roussopoulos acm sigmod record 2000
+standards jim melton acm sigmod record 2002
+articles avigdor gal acm sigmod record 2002
+a general technique for querying xml documents using a relational database system jayavel shanmugasundaram eugene shekita jerry kiernan rajasekar krishnamurthy efstratios viglas jeffrey naughton igor tatarinov acm sigmod record 2001
+articles avigdor gal acm sigmod record 2001
+versioning and configuration management in an object-oriented data model edward sciore the vldb journal mdash the international journal on very large data bases 1994
+a semantic modeling approach for image retrieval by content wesley w chu ion t ieong ricky k taira the vldb journal mdash the international journal on very large data bases 1994
+index configuration in object-oriented databases elisa bertino the vldb journal mdash the international journal on very large data bases 1994
+sql multimedia and application packages sql/mm jim melton andrew eisenberg acm sigmod record 2001
+standards andrew eisenberg acm sigmod record 2001
+quickstore a high performance mapped object store seth j white david j dewitt the vldb journal mdash the international journal on very large data bases 1995
+agents trust and information access on the semantic web tim finin anupam joshi acm sigmod record 2002
+rate-based query optimization for streaming information sources stratis d viglas jeffrey f naughton international conference on management of data 2002
+reports avigdor gal acm sigmod record 2002
+storing and querying ordered xml using a relational database system igor tatarinov stratis d viglas kevin beyer jayavel shanmugasundaram eugene shekita chun zhang international conference on management of data 2002
+a scalable hash ripple join algorithm gang luo curt j ellmann peter j haas jeffrey f naughton international conference on management of data 2002
+automating physical database design in a parallel database jun rao chun zhang nimrod megiddo guy lohman international conference on management of data 2002
+standards andrew eisenberg acm sigmod record 2002
+reports avigdor gal acm sigmod record 2002
+articles avigdor gal acm sigmod record 2002
+hierarchical prefix cubes for range-sum queries chee yong chan yannis e ioannidis very large data bases 1999
+hypothetical knowledge and counterfactual reasoning joseph y halpern very large data bases 2000
+falcon feedback adaptive loop for content-based retrieval leejay wu christos faloutsos katia p sycara terry r payne very large data bases 2000
+standards jim melton acm sigmod record 2002
+reports avigdor gal acm sigmod record 2002
+a database approach to quality of service specification in video databases elisa bertino ahmed k elmagarmid mohand-sa&#239;d hacid acm sigmod record 2003
+reports avigdor gal acm sigmod record 2003
+database indexing for large dna and protein sequence collections ela hunt malcolm p atkinson robert w irving the vldb journal mdash the international journal on very large data bases 2002
+ratio rules a new paradigm for fast quantifiable data mining flip korn alexandros labrinidis yannis kotidis christos faloutsos very large data bases 1998
+effective memory use in a media server edward y chang hector garcia-molina very large data bases 1997
+the adabas buffer pool manager harald sch&#246;ning very large data bases 1998
+the x-tree an index structure for high-dimensional data stefan berchtold daniel a keim hans-peter kriegel very large data bases 1996
+database management systems and the internet susan malaika very large data bases 1996
+query decomposition and view maintenance for query languages for unstructured data dan suciu very large data bases 1996
+efficient user-adaptable similarity search in large multimedia databases thomas seidl hans-peter kriegel very large data bases 1997
+facilitating multimedia database exploration through visual interfaces and perpetual query reformulations wen-syan li k sel&#231;uk candan kyoji hirata yoshinori hara very large data bases 1997
+supporting periodic authorizations and temporal reasoning in database access control elisa bertino claudio bettini elena ferrari pierangela samarati very large data bases 1996
+synchronization and recovery in a client-server storage system e panagos a biliris the vldb journal mdash the international journal on very large data bases 1997
+the impact of object technology on commercial transaction processing edward e cobb the vldb journal mdash the international journal on very large data bases 1997
+an authorization system for digital libraries e ferrari n.r adam v atluri e bertino u capuozzo the vldb journal mdash the international journal on very large data bases 2002
+the gmap a versatile tool for physical data independence odysseas g tsatalos marvin h solomon yannis e ioannidis the vldb journal mdash the international journal on very large data bases 1996
+using extended feature objects for partial similarity retrieval stefan berchtold daniel a keim hans-peter kriegel the vldb journal mdash the international journal on very large data bases 1997
+quantifiable data mining using ratio rules flip korn alexandros labrinidis yannis kotidis christos faloutsos the vldb journal mdash the international journal on very large data bases 2000
+adaptive algorithms for set containment joins sergey melnik hector garcia-molina acm transactions on database systems tods 2003
+supporting efficient multimedia database exploration wen-syan li k.sel&#231;uk candan kyoji hirata yoshinori hara the vldb journal mdash the international journal on very large data bases 2001
+view management in multimedia databases k sel&#231;uk candan eric lemar v s subrahmanian the vldb journal mdash the international journal on very large data bases 2000
+using semantic values to facilitate interoperability among heterogeneous information systems edward sciore michael siegel arnon rosenthal acm transactions on database systems tods 1994
+generic schema matching with cupid jayant madhavan philip a bernstein erhard rahm very large data bases 2001
+querying xml views of relational data jayavel shanmugasundaram jerry kiernan eugene j shekita catalina fan john funderburk very large data bases 2001
+dynamic update cube for range-sum queries seok-ju chun chin-wan chung ju-hong lee seok-lyong lee very large data bases 2001
+update propagation strategies for improving the quality of data on the web alexandros labrinidis nick roussopoulos very large data bases 2001
+set containment joins the good the bad and the ugly karthikeyan ramasamy jignesh m patel jeffrey f naughton raghav kaushik very large data bases 2000
+a database index to large biological sequences ela hunt malcolm p atkinson robert w irving very large data bases 2001
+cache portal technology for accelerating database-driven e-commerce web sites wen-syan li k sel&#231;uk candan wang-pin hsiung oliver po divyakant agrawal qiong luo wei-kuang waine huang yusuf akca cemal yilmaz very large data bases 2001
+form-based proxy caching for database-backed web sites qiong luo jeffrey f naughton very large data bases 2001
+using formal methods to reason about semantics-based decompositions of transactions paul ammann sushil jajodia indrakshi ray very large data bases 1995
+temporal conditions and integrity constraints in active database systems a prasad sistla ouri wolfson international conference on management of data 1995
+implementing crash recovery in quickstore a performance study seth j white david j dewitt international conference on management of data 1995
+use of a component architecture in integrating relational and non-relational robert atkinson international conference on management of data 1995
+shoring up persistent applications michael j carey david j dewitt michael j franklin nancy e hall mark l mcauliffe jeffrey f naughton daniel t schuh marvin h solomon c k tan odysseas g tsatalos seth j white michael j zwilling international conference on management of data 1994
+quickstore a high performance mapped object store seth j white david j dewitt international conference on management of data 1994
+eos an extensible object store alexandros biliris euthimios panagos international conference on management of data 1994
+genesys a system for efficient spatial query processing thomas brinkhoff hans-peter kriegel ralf schneider bernhard seeger international conference on management of data 1994
+multi-step processing of spatial joins thomas brinkhoff hans-peter kriegel ralf schneider bernhard seeger international conference on management of data 1994
+data replication for mobile computers yixiu huang prasad sistla ouri wolfson international conference on management of data 1994
+optimal multi-step k-nearest neighbor search thomas seidl hans-peter kriegel international conference on management of data 1998
+bitmap index design and evaluation chee-yong chan yannis e ioannidis international conference on management of data 1998
+a framework for implementing hypothetical queries timothy griffin richard hull international conference on management of data 1997
+online aggregation joseph m hellerstein peter j haas helen j wang international conference on management of data 1997
+a unified framework for enforcing multiple access control policies sushil jajodia pierangela samarati v s subrahmanian eliza bertino international conference on management of data 1997
+semcog an object-based image retrieval system and its visual query interface wen-syan li k sel&#231;uk candan kyoji hirata yoshinori hara international conference on management of data 1997
+s3 similarity search in cad database systems stefan berchtold hans-peter kriegel international conference on management of data 1997
+bess object storage manager architecture overview alexandros biliris euthimios panagos acm sigmod record 1996
+dynamic information visualization yannis e ioannidis acm sigmod record 1996
+pixel-oriented database visualizations daniel a keim acm sigmod record 1996
+fast parallel similarity search in multimedia databases stefan berchtold christian b&#246;hm bernhard braunm&#252;ller daniel a keim hans-peter kriegel international conference on management of data 1997
+an adaptive data replication algorithm ouri wolfson sushil jajodia yixiu huang acm transactions on database systems tods 1997
+applying formal methods to semantic-based decomposition of transactions paul ammann sushil jajodia indrakshi ray acm transactions on database systems tods 1997
+range queries in olap data cubes ching-tien ho rakesh agrawal nimrod megiddo ramakrishnan srikant international conference on management of data 1997
+a teradata content-based multimedia object manager for massively parallel architectures w o'connell i t ieong d schrader c watson g au a biliris s choo p colin g linderman e panagos j wang t walter international conference on management of data 1996
+query caching and optimization in distributed mediator systems s adali k s candan y papakonstantinou v s subrahmanian international conference on management of data 1996
+towards effective and efficient free space management mark l mcauliffe michael j carey marvin h solomon international conference on management of data 1996
+a query language and optimization techniques for unstructured data peter buneman susan davidson gerd hillebrand dan suciu international conference on management of data 1996
+a framework for supporting data integration using the materialized and virtual approaches richard hull gang zhou international conference on management of data 1996
+a system for watermarking relational databases rakesh agrawal peter j haas jerry kiernan international conference on management of data 2003
+qcluster relevance feedback using adaptive clustering for content-based image retrieval deok-hwan kim chin-wan chung international conference on management of data 2003
+using sets of feature vectors for similarity search on voxelized cad objects hans-peter kriegel stefan brecheisen peer kr&#246;ger martin pfeifle matthias schubert international conference on management of data 2003
+standards andrew eisenberg acm sigmod record 2003
+rondo a programming platform for generic model management sergey melnik erhard rahm philip a bernstein international conference on management of data 2003
+active rules for xml a new paradigm for e-services angela bonifati stefano ceri stefano paraboschi the vldb journal mdash the international journal on very large data bases 2001
+a survey of approaches to automatic schema matching erhard rahm philip a bernstein the vldb journal mdash the international journal on very large data bases 2001
+standards acm sigmod record 2003
+guest editorial vijay atluri anupam joshi yelena yesha the vldb journal mdash the international journal on very large data bases 2003
+the impact of global clustering on spatial database systems thomas brinkhoff hans-peter kriegel very large data bases 1994
+watermarking relational data framework algorithms and analysis rakesh agrawal peter j haas jerry kiernan the vldb journal mdash the international journal on very large data bases 2003
+standards for databases on the grid susan malaika andrew eisenberg jim melton acm sigmod record 2003

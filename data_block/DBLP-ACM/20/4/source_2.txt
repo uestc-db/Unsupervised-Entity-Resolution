@@ -1,0 +1,108 @@
+the aqua approximate query answering system swarup acharya phillip b gibbons viswanath poosala sridhar ramaswamy international conference on management of data 1999
+e-commerce database issues and experience talk-slides available at at the conference anand rajaraman international conference on management of data 1999
+a new method for similarity indexing of market basket data charu c aggarwal joel l wolf philip s yu international conference on management of data 1999
+shrinking the warehouse update window wilburt juan labio ramana yerneni hector garcia-molina international conference on management of data 1999
+query rewriting for semistructured data yannis papakonstantinou vasilis vassalos international conference on management of data 1999
+computing capabilities of mediators ramana yerneni chen li hector garcia-molina jeffrey ullman international conference on management of data 1999
+lof identifying density-based local outliers markus m breunig hans-peter kriegel raymond t ng j&#246;rg sander international conference on management of data 2000
+closest pair queries in spatial databases antonio corral yannis manolopoulos yannis theodoridis michael vassilakopoulos international conference on management of data 2000
+broadcast protocols to support efficient retrieval from databases by mobile users anindya datta debra e vandermeer aslihan celik vijay kumar acm transactions on database systems tods 1999
+capability based mediation in tsimmis chen li ramana yerneni vasilis vassalos hector garcia-molina yannis papakonstantinou jeffrey ullman murty valiveti international conference on management of data 1998
+wavelet-based histograms for selectivity estimation yossi matias jeffrey scott vitter min wang international conference on management of data 1998
+join synopses for approximate query answering swarup acharya phillip b gibbons viswanath poosala sridhar ramaswamy international conference on management of data 1999
+boat-optimistic decision tree construction johannes gehrke venkatesh ganti raghu ramakrishnan wei-yin loh international conference on management of data 1999
+approximate computation of multidimensional aggregates of sparse data using wavelets jeffrey scott vitter min wang international conference on management of data 1999
+fast algorithms for projected clustering charu c aggarwal joel l wolf philip s yu cecilia procopiuc jong soo park international conference on management of data 1999
+selectivity estimation in spatial databases swarup acharya viswanath poosala sridhar ramaswamy international conference on management of data 1999
+optics ordering points to identify the clustering structure mihael ankerst markus m breunig hans-peter kriegel j&#246;rg sander international conference on management of data 1999
+lore a lightweight object repository for semistructured data dallan quass jennifer widom roy goldman kevin haas qingshan luo jason mchugh svetlozar nestorov anand rajaraman hugo rivero serge abiteboul jeff ullman janet wiener international conference on management of data 1996
+data mining techniques jiawei han international conference on management of data 1996
+data bubbles quality preserving performance boosting for hierarchical clustering markus m breunig hans-peter kriegel peer kr&#246;ger j&#246;rg sander international conference on management of data 2001
+data management issues in electronic commerce guest editor's introduction asuman dogac acm sigmod record 2002
+data management issues in electronic commerce asuman dogac acm sigmod record 2002
+fault-tolerant load-balancing queries in telegraph mehul a shah sirish chandrasekaran international conference on management of data 2001
+dynamic content acceleration a caching solution to enable scalable dynamic web page generation anindya datta kaushik dutta krithi ramamritham helen thomas debra vandermeer international conference on management of data 2001
+handling very large databases with informix extended parallel server andreas weininger international conference on management of data 2000
+tip a temporal extension to informix jun yang huacheng c ying jennifer widom international conference on management of data 2000
+congressional samples for approximate answering of group-by queries swarup acharya phillip b gibbons viswanath poosala international conference on management of data 2000
+generating spatiotemporal datasets on the www yannis theodoridis mario a nascimento acm sigmod record 2000
+fast incremental maintenance of approximate histograms phillip b gibbons yossi matias viswanath poosala acm transactions on database systems tods 2002
+special section on data mining for intrusion detection and threat analysis daniel barbar&#225 acm sigmod record 2001
+special issue on data mining for intrusion detection and threat analysis daniel barbar&#225 acm sigmod record 2001
+adam a testbed for exploring the use of data mining in intrusion detection daniel barbar&#225 julia couto sushil jajodia ningning wu acm sigmod record 2001
+research centers amit sheth acm sigmod record 2002
+advanced xml data processing guest editor's introduction karl aberer acm sigmod record 2001
+research centers amit sheth acm sigmod record 2001
+java support for data-intensive systems experiences building the telegraph dataflow system mehul a shah michael j franklin samuel madden joseph m hellerstein acm sigmod record 2001
+special section on semantic web and data management robert meersman amit sheth acm sigmod record 2002
+continuously adaptive continuous queries over streams samuel madden mehul shah joseph m hellerstein vijayshankar raman international conference on management of data 2002
+qursed querying and reporting semistructured data yannis papakonstantinou michalis petropoulos vasilis vassalos international conference on management of data 2002
+proxy-based acceleration of dynamically generated content on the world wide web an approach and implementation anindya datta kaushik dutta helen thomas debra vandermeer suresha krithi ramamritham international conference on management of data 2002
+distributing queries over low-power wireless sensor networks samuel madden joseph m hellerstein international conference on management of data 2002
+efficient execution of joins in a star schema andreas weininger international conference on management of data 2002
+algorithms for mining distance-based outliers in large datasets edwin m knorr raymond t ng very large data bases 1998
+aqua a fast decision support systems using approximate query answers swarup acharya phillip b gibbons viswanath poosala very large data bases 1999
+curio a novel solution for efficient storage and indexing in data warehouses anindya datta krithi ramamritham helen m thomas very large data bases 1999
+extending practical pre-aggregation in on-line analytical processing torben bach pedersen christian s jensen curtis e dyreson very large data bases 1999
+explaining differences in multidimensional aggregates sunita sarawagi very large data bases 1999
+a novel index supporting high volume data warehouse insertion chris jermaine anindya datta edward omiecinski very large data bases 1999
+finding intensional knowledge of distance-based outliers edwin m knorr raymond t ng very large data bases 1999
+comparing hierarchical data in external memory sudarshan s chawathe very large data bases 1999
+performance issues in incremental warehouse maintenance wilburt labio jun yang yingwei cui hector garcia-molina jennifer widom very large data bases 2000
+the treescape system reuse of pre-computed aggregates over irregular olap hierarchies torben bach pedersen christian s jensen curtis e dyreson very large data bases 2000
+research centers amit sheth acm sigmod record 2002
+amicalola report database and information systems research challenges and opportunities in semantic web and enterprises amit sheth robert meersman acm sigmod record 2002
+research centers amit sheth acm sigmod record 2003
+expiring data in a warehouse hector garcia-molina wilburt labio jun yang very large data bases 1998
+incremental maintenance for materialized views over semistructured data serge abiteboul jason mchugh michael rys vasilis vassalos janet l wiener very large data bases 1998
+materialized view selection for multidimensional datasets amit shukla prasad deshpande jeffrey f naughton very large data bases 1998
+rainforest a framework for fast decision tree construction of large datasets johannes gehrke raghu ramakrishnan venkatesh ganti very large data bases 1998
+incremental clustering for mining in a data warehousing environment martin ester hans-peter kriegel j&#246;rg sander michael wimmer xiaowei xu very large data bases 1998
+on the computation of multidimensional aggregates sameet agarwal rakesh agrawal prasad deshpande ashish gupta jeffrey f naughton raghu ramakrishnan sunita sarawagi very large data bases 1996
+reordering query execution in tertiary memory databases sunita sarawagi michael stonebraker very large data bases 1996
+olap powerful and easy-to-use federations of olap and object databases junmin gu torben bach pedersen arie shoshani very large data bases 2000
+describing and using query capabilities of heterogeneous sources vasilis vassalos yannis papakonstantinou very large data bases 1997
+fast incremental maintenance of approximate histograms phillip b gibbons yossi matias viswanath poosala very large data bases 1997
+storage estimation for multidimensional aggregates in the presence of hierarchies amit shukla prasad deshpande jeffrey f naughton karthikeyan ramasamy very large data bases 1996
+on applying hash filters to improving the execution of multi-join queries ming-syan chen hui-i hsiao philip s yu the vldb journal mdash the international journal on very large data bases 1997
+efficient similarity search for market basket data alexandros nanopoulos yannis manolopoulos the vldb journal mdash the international journal on very large data bases 2002
+effective timestamping in databases kristian torp christian s jensen richard thomas snodgrass the vldb journal mdash the international journal on very large data bases 2000
+distance-based outliers algorithms and applications edwin m knorr raymond t ng vladimir tucakov the vldb journal mdash the international journal on very large data bases 2000
+c2p clustering based on closest pairs alexandros nanopoulos yannis theodoridis yannis manolopoulos very large data bases 2001
+a comparative study of alternative middle tier caching solutions to support dynamic web content acceleration anindya datta kaushik dutta helen m thomas debra e vandermeer krithi ramamritham dan fishman very large data bases 2001
+demonstration enabling scalable online personalization on the web kaushik dutta anindya datta debra e vandermeer krithi ramamritham helen m thomas very large data bases 2000
+icicles self-tuning samples for approximate query answering venkatesh ganti mong-li lee raghu ramakrishnan very large data bases 2000
+dynamic maintenance of wavelet-based histograms yossi matias jeffrey scott vitter min wang very large data bases 2000
+transaction timestamping in temporal databases christian s jensen david b lomet very large data bases 2001
+query processing in tertiary memory databases sunita sarawagi very large data bases 1995
+aggregate-query processing in data warehousing environments ashish gupta venky harinarayan dallan quass very large data bases 1995
+an effective hash-based algorithm for mining association rules jong soo park ming-syan chen philip s yu international conference on management of data 1995
+workflow automation applications technology and research amit sheth international conference on management of data 1995
+report on the 1995 international workshop on temporal databases arie segev christian s jensen richard thomas snodgrass acm sigmod record 1995
+on parallel execution of multiple pipelined hash joins hui-i hsiao ming-syan chen philip s yu international conference on management of data 1994
+virtual database technology ashish gupta venky harinarayan anand rajaraman acm sigmod record 1997
+lore a database management system for semistructured data jason mchugh serge abiteboul roy goldman dallas quass jennifer widom acm sigmod record 1997
+towards on-line analytical mining in large databases jiawei han acm sigmod record 1998
+caching multidimensional queries using chunks prasad m deshpande karthikeyan ramasamy amit shukla jeffrey f naughton international conference on management of data 1998
+simultaneous optimization and evaluation of multiple dimensional queries yihong zhao prasad m deshpande jeffrey f naughton amit shukla international conference on management of data 1998
+an array-based algorithm for simultaneous multidimensional aggregates yihong zhao prasad m deshpande jeffrey f naughton international conference on management of data 1997
+on-line warehouse view maintenance dallan quass jennifer widom international conference on management of data 1997
+template-based wrappers in the tsimmis system joachim hammer h&#233;ctor garc&#237;a-molina svetlozar nestorov ramana yerneni marcus breunig vasilis vassalos international conference on management of data 1997
+meaningful change detection in structured data sudarshan s chawathe hector garcia-molina international conference on management of data 1997
+implementing data cubes efficiently venky harinarayan anand rajaraman jeffrey d ullman international conference on management of data 1996
+change detection in hierarchically structured information sudarshan s chawathe anand rajaraman hector garcia-molina jennifer widom international conference on management of data 1996
+telegraphcq continuous dataflow processing sirish chandrasekaran owen cooper amol deshpande michael j franklin joseph m hellerstein wei hong sailesh krishnamurthy samuel r madden fred reiss mehul a shah international conference on management of data 2003
+robust and efficient fuzzy match for online data cleaning surajit chaudhuri kris ganjam venkatesh ganti rajeev motwani international conference on management of data 2003
+the design of an acquisitional query processor for sensor networks samuel madden michael j franklin joseph m hellerstein wei hong international conference on management of data 2003
+xpath queries on streaming data feng peng sudarshan s chawathe international conference on management of data 2003
+peer-to-peer harnessing the power of disruptive technologies mario a nascimento acm sigmod record 2003
+an architecture to support scalable online personalization on the web anindya datta kaushik dutta debra vandermeer krithi ramamritham shamkant b navathe the vldb journal mdash the international journal on very large data bases 2001
+user-cognizant multidimensional analysis sunita sarawagi the vldb journal mdash the international journal on very large data bases 2001
+sensor the atomic computing particle vijay kumar acm sigmod record 2003
+incremental computation and maintenance of temporal aggregates jun yang jennifer widom the vldb journal mdash the international journal on very large data bases 2003
+the sensor spectrum technology trends and requirements joseph m hellerstein wei hong samuel r madden acm sigmod record 2003
+efficient and effective clustering methods for spatial data mining raymond t ng jiawei han very large data bases 1994
+energy and rate based mac protocol for wireless sensor networks rajgopal kannan ram kalidindi s s iyengar vijay kumar acm sigmod record 2003
+guest editor's introduction karl aberer acm sigmod record 2003
+analysis of sigmod's co-authorship graph mario a nascimento j&#246;rg sander jeffrey pound acm sigmod record 2003
+psoup a system for streaming queries over streaming data sirish chandrasekaran michael j franklin the vldb journal mdash the international journal on very large data bases 2003

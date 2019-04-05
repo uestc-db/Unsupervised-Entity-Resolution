@@ -1,0 +1,55 @@
+sharp aquos lc37d44u 37 lcd tv lc37d44u sharp aquos lc37d44u 37 widescreen lcd hdtv 7500:1 dynamic contrast ratio 6ms response time sharp
+sharp aquos lc32d64u 32 lcd tv 32 active matrix tft atsc ntsc 135 channels 1920 x 1080 hdtv sharp
+panasonic viera th50px80u 50 plasma tv 50 atsc ntsc 16:9 1366 x 768 surround hdtv panasonic
+panasonic viera th42pz85u 42 plasma tv 42 atsc ntsc 16:9 1920 x 1080 surround hdtv panasonic
+panasonic viera th50pz85u 50 plasma tv 50 atsc ntsc 16:9 1920 x 1080 hdtv panasonic 1 499.00
+panasonic viera th46pz85u 46 plasma tv 46 atsc ntsc 16:9 1920 x 1080 surround hdtv panasonic 1 149.99
+panasonic th42pz80u 42 widescreen 1080p plasma hdtv 1 000 000:1 dynamic contrast ratio panasonic 845.48
+panasonic viera th50pz80u 50 plasma tv 50 atsc ntsc 16:9 1920 x 1080 surround hdtv panasonic 1 364.96
+panasonic viera th46pz80u 46 plasma tv 46 atsc ntsc 16:9 1920 x 1080 surround hdtv panasonic 1 249.94
+panasonic viera th42px80u 42 plasma tv 42 atsc ntsc 16:9 1024 x 768 surround hdtv panasonic 749.00
+sharp aquos lc52se94u 52 lcd tv 52 active matrix tft atsc ntsc 16:9 1920 x 1080 hdtv sharp 2 049.99
+sharp aquos lc37d64u 37 lcd tv 37 active matrix tft ntsc atsc 16:9 1920 x 1080 hdtv sharp 880.72
+samsung ln46a650 46 lcd tv samsung ln46a650 46 1080p lcd hdtv 50 000:1 dynamic contrast ratio 120hz 4ms response time samsung 1 599.98
+samsung ln40a550 40 lcd tv samsung ln40a550 40 widescreen 1080p lcd hdtv 30 000:1 dynamic contrast ratio 5ms response time piano black samsung 910.99
+samsung ln52a650 52 lcd tv samsung ln52a650 52 1080p lcd hdtv 50 000:1 dynamic contrast ratio 120hz 4ms response time samsung 1 895.00
+samsung pn50a450 50 plasma tv samsung pn50a450 50 widescreen 720p plasma hdtv 1 000 000:1 dynamic contrast ratio piano black samsung 995.00
+samsung ln52a550 52 widescreen 1080p lcd hdtv 30 000:1 dynamic contrast ratio 5ms response time piano black samsung 1 579.00
+samsung ln46a550 46 lcd tv samsung ln46a550 46 widescreen 1080p lcd hdtv 30 000:1 dynamic contrast ratio 5ms response time piano black samsung 1 143.99
+samsung pn58a550 58 plasma tv samsung pn58a550 58 widescreen 1080p plasma hdtv 1 000 000:1 dynamic contrast ratio piano black samsung 2 294.90
+samsung 4 series ln37a450 37 lcd tv samsung ln37a450 37 widescreen 720p lcd hdtv 10 000:1 dynamic contrast ratio 6ms response time piano black samsung 796.82
+samsung ln40a650 40 lcd tv samsung ln40a650 40 1080p lcd hdtv 50 000:1 dynamic contrast ratio 120hz 4ms response time samsung 1 279.98
+samsung 5 series ln37a550 37 lcd tv samsung ln37a550 37 widescreen 1080p lcd hdtv 15 000:1 dynamic contrast ratio 5ms response time piano black samsung 944.00
+samsung pn50a550 50 plasma tv samsung pn50a550 50 widescreen 1080p plasma hdtv 1 000 000:1 dynamic contrast ratio piano black samsung 1 499.98
+samsung 4 series ln32a450 32 lcd tv samsung ln32a450 32 widescreen 720p lcd hdtv 10000:1 dynamic contrast ratio 6ms response time piano black samsung 578.00
+samsung 4 series ln26a450 26 lcd tv samsung ln26a450 26 widescreen 720p lcd hdtv 5000:1 dynamic contrast ratio 8ms response time piano black samsung 549.00
+samsung 4 series ln22a451 22 lcd tv samsung ln22a451 22 widescreen lcd hdtv 3 000:1 dynamic contrast ratio 8ms response time white samsung 399.00
+sharp lc26dv24u 26 tv dvd combo sharp lc26dv24u 26 widescreen tv dvd combo hdtv 800:1 contrast ratio 8ms response time piano black sharp 508.72
+samsung ln19a450 19 lcd tv samsung ln19a450 19 widescreen 720p lcd hdtv 3000:1 dynamic contrast ratio 8ms response time piano black samsung 348.00
+samsung 6 series ln19a650 19 lcd tv samsung ln19a650 19 widescreen lcd hdtv 3 000:1 dynamic contrast ratio 8ms response time samsung 369.00
+samsung 4 series ln22a450 22 lcd tv samsung ln22a450 22 widescreen 720p lcd hdtv 3000:1 dynamic contrast ratio 8ms response time piano black samsung 397.77
+samsung ln22a650 22 lcd tv samsung ln22a650 22 widescreen lcd hdtv 3 000:1 contrast ratio 8ms response time samsung 458.00
+samsung ln32a550 32 lcd tv samsung ln32a550 32 widescreen 1080p lcd hdtv 15 000:1 dynamic contrast ratio 5ms response time piano black samsung 849.00
+samsung pn42a450 42 widescreen 720p plasma hdtv 100 000:1 dynamic contrast ratio piano black pn42a450p samsung 899.99
+samsung 7 series ln46a750 46 lcd tv ln46a750r1fxza samsung ln46a750 46 1080p lcd hdtv 50 000:1 dynamic contrast ratio 6ms response time 120hz samsung 1 537.77
+samsung 6 series ln32a650 32 lcd tv samsung ln32a650 32 1080p lcd hdtv 50 000:1 dynamic contrast ratio 4ms response time samsung 916.13
+samsung ln40a750 40 1080p lcd hdtv 50 000:1 dynamic contrast ratio 4ms response time 120hz samsung 1 341.12
+samsung ln52a750 52 1080p lcd hdtv 50 000:1 dynamic contrast ratio 120hz 6ms response time samsung 2 148.99
+samsung pn50a650 50 1080p plasma hdtv 1 000 000:1 dynamic contrast ratio anti burnin technology samsung 1 699.98
+pioneer pdp5020fd 50 plasma tv pioneer kuro pdp5020fd 50 1080p plasma hdtv pioneer electronics usa 2 199.98
+pioneer pdp6020fd 60 plasma tv pioneer kuro pdp6020fd 60 1080p plasma hdtv pioneer electronics usa
+lg 32lg30 32 widescreen 720p lcd hdtv 12000:1 dynamic contrast ratio 8ms response time lg electronics
+lg 52lg50 52 lcd tv lg 52lg50 52 widescreen 1080p lcd hdtv 15 000:1 dynamic contrast ratio 6ms response time lg electronics
+lg 47lg50 47 lcd tv lg 47lg50 47 widescreen 1080p lcd hdtv 15 000:1 dynamic contrast ratio 5ms response time lg electronics
+lg 32lg40 32 tv dvd combo lg 32lg40 32 widescreen 720p lcd hdtv wgbuiltin dvd player 12 000:1 dynamic contrast ratio 8ms response time lg electronics
+samsung ln46a850 46 1080p lcd hdtv 50 000:1 dynamic contrast ratio 120hz 4ms response time super slim 1.9 thick samsung 1 769.00
+samsung ln52a850 52 1080p lcd hdtv 50 000:1 dynamic contrast ratio 120hz 4ms response time super slim 1.9 thick samsung 2 399.98
+samsung pn63a650 63 widescreen 1080p plasma hdtv 1 000 000:1 dynamic contrast ratio touch of color design pn63a650t samsung 3 448.00
+ln52a860 52 lcd tv widescreen 1920x1080 hdtv samsung 2 499.99
+samsung 9 series ln55a950 55 lcd tv 55 atsc ntsc 181 channels 16:9 1920 x 1080 surround hdtv 1080p samsung 4 049.98
+samsung 9 series ln46a950 46 lcd tv 46 atsc ntsc 181 channels 16:9 1920 x 1080 surround hdtv 1080p samsung 2 699.98
+samsung ln46a860 46 lcd tv widescreen 1920x1080 50000:1 hdtv samsung 1 889.98
+th58pz850u 58 plasma tv widescreen 1920x1080 30 000:1 hdtv th58pz850u panasonic 2 999.97
+sharp lc52d85u 52 widescreen 1080p lcd hdtv 120hz 4ms response time sharp 1 648.72
+sharp aquos lc42d85u 42 lcd tv 42 active matrix tft atsc ntsc 16:9 1920 x 1080 hdtv 1080p sharp 1 076.65
+samsung ln32a450 32 720p lcd hdtv samsung

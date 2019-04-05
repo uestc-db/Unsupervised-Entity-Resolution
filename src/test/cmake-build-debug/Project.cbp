@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="restaurant">
+				<Option output="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/restaurant" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 restaurant"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="restaurant/fast">
+				<Option output="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/restaurant" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 restaurant/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="paper">
+				<Option output="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/paper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 paper"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="paper/fast">
+				<Option output="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/paper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 paper/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="product">
+				<Option output="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/product" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 product"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="product/fast">
+				<Option output="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/product" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 product/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/paper.cpp">
+			<Option target="paper"/>
+		</Unit>
+		<Unit filename="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/product.cpp">
+			<Option target="product"/>
+		</Unit>
+		<Unit filename="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/restaurant.cpp">
+			<Option target="restaurant"/>
+		</Unit>
+		<Unit filename="/Users/nyy/Unsupervised-Entity-Resolution-block-idf-init/src/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

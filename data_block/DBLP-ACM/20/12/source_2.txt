@@ -1,0 +1,101 @@
+the wasa2 object-oriented workflow management system gottfried vossen mathias weske international conference on management of data 1999
+clustering methods for large databases from the past to the future alexander hinneburg daniel a keim international conference on management of data 1999
+an ontological analysis of the relationship construct in conceptual modeling yair wand veda c storey ron weber acm transactions on database systems tods 1999
+oracle rdb's record caching model richard anderson gopalan arun richard frank international conference on management of data 1998
+an efficient method for checking object-oriented database schema correctness a formica h d groger m missikoff acm transactions on database systems tods 1998
+database research at columbia university shih-fu chang luis gravano gail e kaiser kenneth a ross salvatore j stolfo acm sigmod record 1998
+dbsim a simulation tool for predicting database performance mark lefler mark stokrp craig wong international conference on management of data 1996
+monitoring xml data on the web benjamin nguyen serge abiteboul gr&#233;gory cobena miha&#237 preda international conference on management of data 2001
+epsilon grid order an algorithm for the similarity join on massive high-dimensional data christian b&#246;hm bernhard braunm&#252;ller florian krebs hans-peter kriegel international conference on management of data 2001
+shutdown budget and funding xiaolei qian acm sigmod record 1996
+contracting in the days of ebusiness w h&#252;mmer w lehner h wedekind acm sigmod record 2002
+spatial data management for computer aided design hans-peter kriegel andreas m&#252;ller marco p&#246;tke thomas seidl international conference on management of data 2001
+self-organizing data sharing communities with sagres zachary ives alon levy jayant madhavan rachel pottinger stefan saroiu igor tatarinov shiori betzler qiong chen ewa jaslikowska jing su wai tak theodora yeung international conference on management of data 2000
+microsoft terraserver a spatial data warehouse tom barclay jim gray don slutz international conference on management of data 2000
+maintenance of cube automatic summary tables wolfgang lehner richard sidle hamid pirahesh roberta wolfgang cochrane international conference on management of data 2000
+approximating multi-dimensional aggregate range queries over real attributes dimitrios gunopulos george kollios vassilis j tsotras carlotta domeniconi international conference on management of data 2000
+knowledge discovery in data warehouses themistoklis palpanas acm sigmod record 2000
+beyond document similarity understanding value-based search and browsing technologies andreas paepcke hector garcia-molina gerard rodriguez-mula junghoo cho acm sigmod record 2000
+emancipating instances from the tyranny of classes in information modeling jeffrey parsons yair wand acm transactions on database systems tods 2000
+foundations of statistical natural language processing gerhard weikum acm sigmod record 2002
+understanding the global semantics of referential actions using logic rules wolfgang may bertram lud&#228;scher acm transactions on database systems tods 2002
+the cougar approach to in-network query processing in sensor networks yong yao johannes gehrke acm sigmod record 2002
+data mining-based intrusion detectors an overview of the columbia ids project salvatore j stolfo wenke lee philip k chan wei fan eleazar eskin acm sigmod record 2001
+mining system audit data opportunities and challenges wenke lee wei fan acm sigmod record 2001
+interviewing during a tight job market zachary g ives qiong luo acm sigmod record 2002
+xml document versioning shu yao chien vassilis j tsotras carlo zaniolo acm sigmod record 2001
+tigukat a uniform behavioral objectbase management system m tamer 214;zsu randal peters duane szafron boman irani anna lipka adriana mu&#241;oz the vldb journal mdash the international journal on very large data bases 1995
+databases and transaction processing an application-oriented approach philip m lewis arthur bernstein michael kifer acm sigmod record 2002
+conceptual modeling and specification generation for b2b business processes based on ebxml hyoungdo kim acm sigmod record 2002
+efficient algorithms for minimizing tree pattern queries prakash ramanan international conference on management of data 2002
+minimal probing supporting expensive predicates for top-k queries kevin chen-chuan chang seung-won hwang international conference on management of data 2002
+hd-eye visual clustering of high dimensional data alexander hinneburg daniel a keim markus wawryniuk international conference on management of data 2002
+cougar the network is the database wai fu fung david sun johannes gehrke international conference on management of data 2002
+data warehousing and business intelligence for e-commerce by alan r simon steven l shaffer frank g goethals acm sigmod record 2002
+voodb a generic discrete-event random simulation model to evaluate the performances of oodbs j&#233;r&#244;me darmont michel schneider very large data bases 1999
+an adaptive hybrid server architecture for client caching odbmss kaladhar voruganti m tamer 214;zsu ronald c unrau very large data bases 1999
+database architecture optimized for the new bottleneck memory access peter a boncz stefan manegold martin l kersten very large data bases 1999
+optimal grid-clustering towards breaking the curse of dimensionality in high-dimensional clustering alexander hinneburg daniel a keim very large data bases 1999
+miro web integrating multiple data sources through semistructured data types luc bouganim tatiana chan-sine-ying tuyet-tram dang-ngoc jean-luc darroux georges gardarin fei sha very large data bases 1999
+using sql to build new aggregates and extenders for object relational systems haixun wang carlo zaniolo very large data bases 2000
+managing intervals efficiently in object-relational databases hans-peter kriegel marco p&#246;tke thomas seidl very large data bases 2000
+an asynchronous avoidance-based cache consistency algorithm for client caching dbmss m tamer 214;zsu kaladhar voruganti ronald c unrau very large data bases 1998
+massive stochastic testing of sql donald r slutz very large data bases 1998
+improving adaptable similarity query processing by using approximations mihael ankerst bernhard braunm&#252;ller hans-peter kriegel thomas seidl very large data bases 1998
+critical database technologies for high energy physics david m malon edward n may very large data bases 1997
+integrating reliable memory in databases wee teck ng peter m chen very large data bases 1997
+adaptive data broadcast in hybrid networks konstantinos stathatos nick roussopoulos john s baras very large data bases 1997
+koda the architecture and interface of a data model independent kernel gopalan arun ashok joshi very large data bases 1998
+integrating reliable memory in databases wee teck ng peter m chen the vldb journal mdash the international journal on very large data bases 1998
+efficient schemes for managing multiversionxml documents s.-y chien v j tsotras c zaniolo the vldb journal mdash the international journal on very large data bases 2002
+picodmbs scaling down database techniques for the smartcard christophe bobineau luc bouganim philippe pucheral patrick valduriez very large data bases 2000
+picodbms validation and experience nicolas anciaux christophe bobineau luc bouganim philippe pucheral patrick valduriez very large data bases 2001
+mil primitives for querying a fragmented world peter a boncz martin l kersten the vldb journal mdash the international journal on very large data bases 1999
+hmap a temporal data model managing intervals with different granularities and indeterminacy from natural language sentences carlo combi giuseppe pozzi the vldb journal mdash the international journal on very large data bases 2001
+optimizing database architecture for the new bottleneck memory access stefan manegold peter a boncz martin l kersten the vldb journal mdash the international journal on very large data bases 2000
+comparing hybrid peer-to-peer systems beverly yang hector garcia-molina very large data bases 2001
+change-centric management of versions in an xml warehouse am&#233;lie marian serge abiteboul gregory cobena laurent mignet very large data bases 2001
+storage service providers a solution for storage management panel banu 214;zden eran gabber bruce hillyer wee teck ng elizabeth a m shriver david j dewitt bruce gordon jim gray john wilkes very large data bases 2001
+focused crawling using context graphs michelangelo diligenti frans coetzee steve lawrence c lee giles marco gori very large data bases 2000
+what happens during a join dissecting cpu and memory optimization effects stefan manegold peter a boncz martin l kersten very large data bases 2000
+lopix a system for xml data integration and manipulation wolfgang may very large data bases 2001
+turmoil at nasa and numerous funding announcements xiaolei qian acm sigmod record 1995
+the merge/purge problem for large databases mauricio a hern&#225;ndez salvatore j stolfo international conference on management of data 1995
+ofl a functional execution model for object query languages georges gardarin fernando machuca philippe pucheral international conference on management of data 1995
+opportunities at arpa nsf and elsewhere xiaolei qian acm sigmod record 1995
+predictive dynamic load balancing of parallel and distributed rule and query processing hasanat m dewan salvatore j stolfo mauricio hern&#225;ndez jae-jun hwang international conference on management of data 1994
+formal query languages for secure relational databases marianne winslett kenneth smith xiaolei qian acm transactions on database systems tods 1994
+multigranularity locking in multiple job classes transaction processing system shan-hoi ng sheung-lun hung acm sigmod record 1995
+mosaico-a system for conceptual modeling and rapid prototyping of object-oriented database application m missikoff m toiati international conference on management of data 1994
+performance evaluation of a new distributed deadlock detection algorithm chim-fu yeung sheung-lun hung kam-yiu lam acm sigmod record 1994
+jumping on the nii bandwagon xiaolei qian acm sigmod record 1994
+progress on hpcc and nii marianne winslett acm sigmod record 1994
+quickly generating billion-record synthetic databases jim gray prakash sundaresan susanne englert ken baclawski peter j weinberger international conference on management of data 1994
+loading databases using dataflow parallelism tom barclay robert barnes jim gray prakash sundaresan acm sigmod record 1994
+workshop on workflow management in scientific and engineering applications-report r mcclatchey g vossen acm sigmod record 1997
+an extensible notation for spatiotemporal index queries vassilis j tsotras christian s jensen richard thomas snodgrass acm sigmod record 1998
+towards a richer web object model frank manola acm sigmod record 1998
+the pyramid-technique towards breaking the curse of dimensionality stefan berchtold christian b&#246;hm hans-peter kriegal international conference on management of data 1998
+starts stanford proposal for internet meta-searching luis gravano chen-chuan k chang h&#233;ctor garc&#237;a-molina andreas paepcke international conference on management of data 1997
+temporal aggregation in active database rules iakovos motakis carlo zaniolo international conference on management of data 1997
+scientists called upon to take actions xiaolei qian acm sigmod record 1996
+an axiomatic model of dynamic schema evolution in objectbase systems randel j peters m tamer 214;zsu acm transactions on database systems tods 1997
+new programs at darpa and nsf xiolai qian acm sigmod record 1996
+opportunities in information management and assurance xiaolei qian acm sigmod record 1997
+random i/o scheduling in online tertiary storage systems bruce k hillyer avi silberschatz international conference on management of data 1996
+exchanging intensional xml data tova milo serge abiteboul bernd amann omar benjelloun fred dang ngoc international conference on management of data 2003
+factorizing complex predicates in queries to exploit indexes surajit chaudhuri prasanna ganesan sunita sarawagi international conference on management of data 2003
+a framework for diagnosing changes in evolving data streams charu c aggarwal international conference on management of data 2003
+dynamic xml documents with distribution and replication serge abiteboul angela bonifati gr&#233;gory cob&#233;na ioana manolescu tova milo international conference on management of data 2003
+time management for new faculty anastassia ailamaki johannes gehrke acm sigmod record 2003
+on the computation of relational view complements jens lechtenb&#246;rger gottfried vossen acm transactions on database systems tods 2003
+vist a dynamic index method for querying xml data by tree structures haixun wang sanghyun park wei fan philip s yu international conference on management of data 2003
+picodbms scaling down database techniques for the smartcard philippe pucheral luc bouganim patrick valduriez christophe bobineau the vldb journal mdash the international journal on very large data bases 2001
+monotonic complements for independent data warehouses d laurent j lechtenb&#246;rger n spyratos g vossen the vldb journal mdash the international journal on very large data bases 2001
+new partnership with acm and update on the journal m tamer 214;zsu the vldb journal mdash the international journal on very large data bases 2003
+research in database engineering at the university of namur jean-luc hainaut acm sigmod record 2003
+effective page refresh policies for web crawlers junghoo cho hector garcia-molina acm transactions on database systems tods 2003
+efficient management of multiversion documents by object referencing shu-yao chien vassilis j tsotras carlo zaniolo very large data bases 2001
+distributed deviation detection in sensor networks themistoklis palpanas dimitris papadopoulos vana kalogeraki dimitrios gunopulos acm sigmod record 2003
+the cougar project a work-in-progress report alan demers johannes gehrke rajmohan rajaraman niki trigoni yong yao acm sigmod record 2003
+peer-to-peer research at stanford mayank bawa brian f cooper arturo crespo neil daswani prasanna ganesan hector garcia-molina sepandar kamvar sergio marti mario schlosser qi sun patrick vinograd beverly yang acm sigmod record 2003
