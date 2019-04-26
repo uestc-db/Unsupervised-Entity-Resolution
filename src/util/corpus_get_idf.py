@@ -35,10 +35,10 @@ with open("../../data/wiki_2012.txt", "r+", encoding="utf-8") as f:
 with open("../../data/wiki_2010.txt", "r+", encoding="utf-8") as f:
     wiki_2010 = f.read()
 
-with open("../../data/%s/source_1_clean.txt" % dataset, "r+", encoding="utf-8") as f:
+with open("../../data/%s/source_1.txt" % dataset, "r+", encoding="utf-8") as f:
     s1 = f.read()
 
-with open("../../data/%s/source_2_clean.txt" % dataset, "r+", encoding="utf-8") as f:
+with open("../../data/%s/source_2.txt" % dataset, "r+", encoding="utf-8") as f:
     s2 = f.read()
 
 corpus = wiki_2016 + wiki_2012 + wiki_2010
